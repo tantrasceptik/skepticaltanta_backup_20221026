@@ -141,6 +141,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/Skeptical-Tantra/skeptical-tantra/tree/main/blog',
+          editLocalizedFiles: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
