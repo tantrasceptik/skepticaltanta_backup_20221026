@@ -9,6 +9,8 @@ module.exports = {
   favicon: 'img/logo.svg',
   organizationName: 'Skeptical-Tantra', // Usually your GitHub org/user name.
   projectName: 'skeptical-tantra', // Usually your repo name.
+  trailingSlash: false,
+  deploymentBranch: 'gh-pages',
   themeConfig: {
     navbar: {
       title: 'Skeptical Tantra & Sexuality',
