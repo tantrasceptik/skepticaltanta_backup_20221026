@@ -1,0 +1,42 @@
+{
+  "title": {
+    "message": "Tantra Sceptique",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Must read for Neo-Tantrikas": {
+    "message": "À lire pour les Neo-Tantrikas",
+    "description": "Un texte à lire absolument pour les Néo-Tantrikas"
+  },
+  "item.label.Ethical rules / Code of Conduct": {
+    "message": "Règles éthiques / Code de conduite",
+    "description": "Navbar item with label Ethical rules / Code of Conduct"
+  },
+  "item.label.What is Skeptical Tantra ?": {
+    "message": "Qu'est-ce le Tantra Sceptique ?",
+    "description": "Navbar item with label What is Skeptical Tantra ?"
+  },
+  "item.label.Why do Skeptical Tantra ?": {
+    "message": "Pourquoi pratiquer le Tantra Sceptique ?",
+    "description": "Navbar item with label Why do Skeptical Tantra ?"
+  },
+  "item.label.Practical guide": {
+    "message": "Guide pratique",
+    "description": "Navbar item with label Practical guide"
+  },
+  "item.label.Neo-Tantra and ...": {
+    "message": "Neo-Tantra et ...",
+    "description": "Navbar item with label Neo-Tantra and ..."
+  }
+}

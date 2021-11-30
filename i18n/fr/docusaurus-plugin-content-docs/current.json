@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.What is Skeptical Tantra ?": {
+    "message": "Qu'est-ce le Tantra sceptique ?",
+    "description": "The label for category What is Skeptical Tantra ? in sidebar docs"
+  },
+  "sidebar.docs.category.Why do Skeptical Tantra ?": {
+    "message": "Pourquoi pratiquer le Tantra Sceptique ?",
+    "description": "The label for category Why do Skeptical Tantra ? in sidebar docs"
+  },
+  "sidebar.docs.category.Practical guide": {
+    "message": "Guide pratique",
+    "description": "The label for category Practical guide in sidebar docs"
+  },
+  "sidebar.docs.category.Neo-Tantra and ...": {
+    "message": "Neo-Tantra et ...",
+    "description": "The label for category Neo-Tantra and ... in sidebar docs"
+  },
+  "sidebar.docs.category.Ethical rules / Code of Conduct": {
+    "message": "Règles éthiques / Code de conduite",
+    "description": "The label for category Ethical rules / Code of Conduct in sidebar docs"
+  },
+  "sidebar.docs.category.Meditations": {
+    "message": "Meditations",
+    "description": "The label for category Meditations in sidebar docs"
+  },
+  "sidebar.docs.category.Tantra exercices": {
+    "message": "Tantra exercices",
+    "description": "The label for category Tantra exercices in sidebar docs"
+  },
+  "sidebar.docs.category.Aqua-Tantra": {
+    "message": "Aqua-Tantra",
+    "description": "The label for category Aqua-Tantra in sidebar docs"
+  },
+  "sidebar.docs.category.Tantric Massages": {
+    "message": "Tantric Massages",
+    "description": "The label for category Tantric Massages in sidebar docs"
+  }
+}
