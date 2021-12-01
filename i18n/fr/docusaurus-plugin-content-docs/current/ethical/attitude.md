@@ -27,3 +27,7 @@ Donc, même quand on va dans un stage Tantra, on y va d'abord pour **soi**, il p
 12. ...
 
 Une des astuces, c'est de s'imaginer de voyager à travers le temps, à une époque où la science était minoritaire, et de se projeter à une époque ou les croyances proches du New Age étaient majoritaires et où la science était très peu présente dans la vie quotidienne.
+
+De plus, il est important de concentrer son attention sur les pratiques et non sur les explications fournies, la plupart des événements Neo-Tantra font la part belle à la pratique et passent très peu de temps à fournir des explications, proportionnellement parlant.
+
+Et pour finir, cela permet également de travailler ses capacités d'empathie ainsi que de respect en présentiel, même si c'est de temps en temps compliqué sur certains sujets comme la vaccination ou encore la 5G.
