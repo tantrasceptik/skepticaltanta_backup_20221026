@@ -11,7 +11,6 @@ module.exports = {
   projectName: 'skeptical-tantra', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
-  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
     googleAnalytics: {
       trackingID: 'G-LLQEBL65WS',
