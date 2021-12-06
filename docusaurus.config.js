@@ -12,10 +12,10 @@ module.exports = {
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
   themeConfig: {
-    googleAnalytics: {
+    gtag: {
       trackingID: 'G-LLQEBL65WS',
       // Champs facultatifs.
-      anonymizeIP: true, // Les IP doivent-elles être anonymisées ?
+      anonymizeIP: false, // Les IP doivent-elles être anonymisées ?
     },
     navbar: {
       title: 'Skeptical Tantra & Sexuality',
