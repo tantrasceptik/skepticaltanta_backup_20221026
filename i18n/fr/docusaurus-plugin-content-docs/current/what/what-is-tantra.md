@@ -23,7 +23,7 @@ Un reportage à propos du Néo-Tantra sur Netflix, c'est l'épisode 2 de la sér
 Attention, cela ne dure qu'une heure et ils ratissent très large, donc ils montrent très rapidement les aspects positifs et les dérives du Néo-Tantra sans nécessairement creuser, néanmoins les promoteurs du Tantra et les contradicteurs peuvent s'exprimer dans ce reportage :
 https://www.netflix.com/be-fr/title/81044208 
 
-En parlant des dérives du Néo-Tantra, un très bon épisode de Méta de Choc sur un témoignage d’une anti-tantrika, Maud : 
+En parlant des dérives du Néo-Tantra, un très bon épisode de Méta de Choc sur un témoignage d’une ancienne pratiquante du Tantra, Maud : 
 https://metadechoc.fr/podcast/reiki-tantra-et-emprise-mentale/ 
 
 Un article à propos des limites lors d'un massage tantrique :
