@@ -4,12 +4,12 @@
     "description": "The label for version current"
   },
   "sidebar.docs.category.What is Skeptical Tantra ?": {
-    "message": "Qu'est-ce le Tantra sceptique ?",
+    "message": "Qu'est-ce le Tantra Sceptique ?",
     "description": "The label for category What is Skeptical Tantra ? in sidebar docs"
   },
-  "sidebar.docs.category.Why do Skeptical Tantra ?": {
-    "message": "Pourquoi pratiquer le Tantra Sceptique ?",
-    "description": "The label for category Why do Skeptical Tantra ? in sidebar docs"
+  "sidebar.docs.category.Learning paths": {
+    "message": "Parcours d'apprentissage",
+    "description": "The label for category Learning paths in sidebar docs"
   },
   "sidebar.docs.category.Practical guide": {
     "message": "Guide pratique",

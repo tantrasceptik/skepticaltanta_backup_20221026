@@ -10,6 +10,7 @@ sidebar_position: 1
 Il est très important de bien nettoyer au savon toutes les parties du corps ainsi que se brosser les dents avant toute pratique. De plus, il est vivement recommandé de se laver les mains à chaque fois qu’il y a un changement de partenaire.
 
 2. Respecter chacun et ses limites
+
 Durant toute l'expérimentation, il est essentiel de respecter les limites de chacun, notamment en prenant le temps de recueillir le consentement de tout le monde.
 
 Si à un moment quelqu’un ressent un inconfort dans l’expérimentation, il peut l’exprimer sans avoir peur de casser la dynamique de groupe. D’ailleurs, chaque participant.e est invité.e à observer les autres et à demander si tout va bien au cas où une personne semble mal vivre l’expérience.

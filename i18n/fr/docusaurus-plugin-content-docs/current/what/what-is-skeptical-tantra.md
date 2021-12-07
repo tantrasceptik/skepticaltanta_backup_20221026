@@ -12,7 +12,9 @@ Le Tantra Sceptique est né suite à la rencontre d'une dizaine de Tantrikas Sce
 
 De plus, la crise sanitaire du COVID-19 a été l'élément déclencheur pour promouvoir le Scepticisme ainsi que la Zététique au sein de la communauté Néo-Tantrique.
 
-Différentes variations du Tantra Sceptique sont possibles :
+## Les options à choisir 
+
+Pour construire le cadre d'une session de Tantra Sceptique, plusieurs options sont possibles:
 
 1. Le support d’expérimentation :
     1. futon
@@ -41,11 +43,11 @@ Différentes variations du Tantra Sceptique sont possibles :
     1. toucher certaines zones prédéfinies
     1. toucher tout le corps, parties intimes comprises (seins, fesses, sexe)
 
-# Pourquoi “Tantra” ?
+## Pourquoi “Tantra” ?
 
 Parce que la plupart des exercices dans le Tantra Sceptique sont grandement inspirés des pratiques du Neo-Tantra, qui se basent principalement sur des croyances New Age pour justifier leurs exercices.
 
-# Pourquoi “Sceptique” ?
+## Pourquoi “Sceptique” ?
 
 Pour expliquer d’un point de vue le plus scientifique possible les pratiques, en se fondant notamment sur le scepticisme scientifique : https://fr.wikipedia.org/wiki/Scepticisme_scientifique 
 

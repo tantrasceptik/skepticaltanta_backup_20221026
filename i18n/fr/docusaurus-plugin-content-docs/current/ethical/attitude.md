@@ -6,7 +6,7 @@ sidebar_position: 2
 Le Néo-Tantra vient avec son lot de croyances, principalement venant du New Age.
 Les deux principaux challenges pour un scientifique, un sceptique ou un zététicien qui s'aventurerait dans un événement Neo-Tantra sont:
 
-1. Comprendre le champ lexical utilisé: Pour cela, [cette table de rosette New Age <=> Tantra Sceptique](practice/translator.md) devrait vous aider
+1. Comprendre le champ lexical utilisé: Pour cela, [cette table de rosette New Age <=> Tantra Sceptique](what/translator.md) devrait vous aider
 2. Respecter les différentes croyances qui circulent dans les événements Neo-Tantra
 
 **Le but n'est clairement pas de changer les croyances des participants, et il est beaucoup plus facile de cacher sa part scientifique que dire aux autres qui nous sommes réellement.**

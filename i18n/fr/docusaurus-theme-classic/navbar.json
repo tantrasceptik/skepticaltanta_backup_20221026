@@ -27,9 +27,9 @@
     "message": "Qu'est-ce le Tantra Sceptique ?",
     "description": "Navbar item with label What is Skeptical Tantra ?"
   },
-  "item.label.Why do Skeptical Tantra ?": {
-    "message": "Pourquoi pratiquer le Tantra Sceptique ?",
-    "description": "Navbar item with label Why do Skeptical Tantra ?"
+  "item.label.Learning paths": {
+    "message": "Parcours d'apprentissage",
+    "description": "Navbar item with label Learning paths"
   },
   "item.label.Practical guide": {
     "message": "Guide pratique",

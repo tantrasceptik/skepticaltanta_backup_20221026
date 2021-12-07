@@ -45,8 +45,8 @@ module.exports = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'why/links-with-science',
-          label: 'Why do Skeptical Tantra ?',
+          docId: 'learning-paths/introduction',
+          label: 'Learning paths',
         },
         {
           type: 'doc',

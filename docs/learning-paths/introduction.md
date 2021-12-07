@@ -1,6 +1,6 @@
 ---
-title: The links with the Science
-id: links-with-science
+title: Introduction
+id: introduction
 sidebar_position: 1
 ---
 
