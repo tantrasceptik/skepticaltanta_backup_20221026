@@ -96,9 +96,13 @@ module.exports = {
         //     },
         //   ],
         // },
-        // {
-        //   title: 'Community',
-        //   items: [
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'Forum',
+              href: 'https://github.com/Skeptical-Tantra/skeptical-tantra/discussions',
+            },
         //     {
         //       label: 'Facebook',
         //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
@@ -107,22 +111,27 @@ module.exports = {
         //       label: 'Discord',
         //       href: 'https://discordapp.com/invite/docusaurus',
         //     },
-        //     {
-        //       label: 'Twitter',
-        //       href: 'https://twitter.com/docusaurus',
-        //     },
-        //   ],
-        // },
+          ],
+        },
+        {
+          title: 'Contribute',
+          items: [
+            {
+              label: 'How to contribute ?',
+              to: 'docs/what/contribute',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/Skeptical-Tantra/skeptical-tantra',
+            },
+          ],
+        },
         {
           title: 'More',
           items: [
             {
               label: 'Blog',
               to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/Skeptical-Tantra/skeptical-tantra',
             },
           ],
         },
