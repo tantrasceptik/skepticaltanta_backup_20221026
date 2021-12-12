@@ -61,12 +61,12 @@ export default function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`${translate({id: 'homepage.title', message: 'Skeptical Tantra & Sexuality'})}`}
-      description={`${translate({id: 'homepage.tagline', message: 'Explore your sexuality with the help of Science and Skeptical Tantra'})}`}>
+      title={`${translate({id: 'homepage.title', message: 'Skeptical Tantra - Touch experiments'})}`}
+      description={`${translate({id: 'homepage.tagline', message: 'Explore your touch with the help of Science and Skeptical Tantra'})}`}>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title"><Translate id="homepage.title">Skeptical Tantra & Sexuality</Translate></h1>
-          <p className="hero__subtitle"><Translate id="homepage.tagline">Explore your sexuality with the help of Science and Skeptical Tantra</Translate></p>
+          <h1 className="hero__title"><Translate id="homepage.title">Skeptical Tantra - Touch experiments</Translate></h1>
+          <p className="hero__subtitle"><Translate id="homepage.tagline">Explore your touch with the help of Science and Skeptical Tantra</Translate></p>
           <div className={styles.buttons}>
             <Link
               className={clsx(

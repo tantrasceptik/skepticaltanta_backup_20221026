@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Skeptical Tantra & Sexuality',
-  tagline: 'Explore your sexuality with the help of Science and Skeptical Tantra',
+  title: 'Skeptical Tantra - Touch experiments',
+  tagline: 'Explore your touch with the help of Science and Skeptical Tantra',
   url: 'https://skeptical-tantra.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
