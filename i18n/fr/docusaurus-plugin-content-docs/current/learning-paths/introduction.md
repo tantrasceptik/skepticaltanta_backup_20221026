@@ -1,0 +1,14 @@
+---
+title: Introduction
+id: introduction
+sidebar_position: 1
+---
+
+**Attention:** Les parcours d'apprentissage fournis ne sont que des **propositions**, ce ne sont pas des exercices qui doivent être reproduits **fidèlement**.
+
+Au contraire, sentez-vous libres de les **adapter** en fonction des participant·e·s ainsi que chaque participant·e a le droit de l'adapter pour soi-même, tant que les adaptations respectent le [code de conduite](/docs/ethical/code-of-conduct).
+
+# Modules
+
+1. [Consentement mutuel et limites](mutual-consent-and-limits)
+2. [Exploration d'une zone du corps](body-aera-exploration)

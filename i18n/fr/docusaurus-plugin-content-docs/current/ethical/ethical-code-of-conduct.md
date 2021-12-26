@@ -13,7 +13,7 @@ Il est très important de bien nettoyer au savon toutes les parties du corps ain
 
 Durant toute l'expérimentation, il est essentiel de respecter les limites de chacun, notamment en prenant le temps de recueillir le consentement de tout le monde.
 
-Si à un moment quelqu’un ressent un inconfort dans l’expérimentation, il peut l’exprimer sans avoir peur de casser la dynamique de groupe. D’ailleurs, chaque participant.e est invité.e à observer les autres et à demander si tout va bien au cas où une personne semble mal vivre l’expérience.
+Si à un moment quelqu’un ressent un inconfort dans l’expérimentation, il peut l’exprimer sans avoir peur de casser la dynamique de groupe. D’ailleurs, chaque participant·e est invité·e à observer les autres et à demander si tout va bien au cas où une personne semble mal vivre l’expérience.
 
 Si une personne vous pousse à dépasser le cadre, en particulier une figure d'autorité comme une formatrice ou un formateur, alors il vaut mieux demander à la personne de respecter les limites, voire cesser la collaboration si un besoin de sécurité n'est pas entendu.
 
@@ -24,9 +24,9 @@ Exemple : Tu peux toucher ma tête, mais pas mes cheveux.
 
 4. Respect de ce cadre
 
-Un cadre commun est défini par les participant.e.s, et respecté tout le long de l’expérimentation.
+Un cadre commun est défini par les participant·e·s, et respecté tout le long de l’expérimentation.
 
-Ce cadre peut évoluer lors de l’expérimentation, à partir du moment où tous les participant.e.s sont d’accord pour le transformer.
+Ce cadre peut évoluer lors de l’expérimentation, à partir du moment où tous les participant·e·s sont d’accord pour le transformer.
 
 En revanche, une seule personne est suffisante pour décider du rétrécissement du cadre d’expérimentation et chacun doit alors respecter ce nouveau cadre.
 

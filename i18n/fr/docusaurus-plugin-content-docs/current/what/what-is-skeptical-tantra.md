@@ -36,12 +36,13 @@ Pour construire le cadre d'une session de Tantra entre Sceptiques, plusieurs opt
     1. récréatif
 1. L'habillement :
     1. habillé
-    1. partiellement nu
-    1. complètement nu
+    1. partiellement nu (**A éviter avec des débutant·e·s**)
+    1. complètement nu (**A pratiquer entre expert·e·s UNIQUEMENT**)
 1. Zones de toucher :
     1. pas de toucher
     1. toucher certaines zones prédéfinies
     1. toucher tout le corps, parties intimes comprises (seins, fesses, sexe)
+     (**A pratiquer entre expert·e·s UNIQUEMENT**)
 
 ## Pourquoi “Tantra” ?
 

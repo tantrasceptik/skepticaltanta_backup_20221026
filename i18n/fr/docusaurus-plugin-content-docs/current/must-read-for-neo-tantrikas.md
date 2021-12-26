@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 
-Si tu pratiques déjà du Tantra et/ou du massage Tantrique, notamment avec une approche spirituelle qui se fonde notamment sur les chakras, alors, il y a de fortes chances que le contenu de ce site Web ne te parle pas. En revanche, si tu as des ami.e.s très rationnels, très Yang, qui ne croient pas à ta vision de l'énergétique, mais que tu aimerais qu'ils comprennent un peu mieux ce qu'est le Tantra, alors, tu es peut-être au bon endroit :
+Si tu pratiques déjà du Tantra et/ou du massage Tantrique, notamment avec une approche spirituelle qui se fonde notamment sur les chakras, alors, il y a de fortes chances que le contenu de ce site Web ne te parle pas. En revanche, si tu as des ami·e·s très rationnels, très Yang, qui ne croient pas à ta vision de l'énergétique, mais que tu aimerais qu'ils comprennent un peu mieux ce qu'est le Tantra, alors, tu es peut-être au bon endroit :
 
 En effet, le but de ce site Web est d'essayer de construire un pont entre les pratiques promues par le Tantra et essayer de les rapprocher de la Science, afin de fournir du contenu qui soit compréhensible par des personnes qui n'ont pas le vocabulaire utilisé habituellement dans le Tantra et / ou qui ne sont pas en recherche de spiritualité.
 
