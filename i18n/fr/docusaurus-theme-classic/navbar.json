@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Tantra Sceptique",
+    "message": "Tantra entre Sceptiques",
     "description": "The title in the navbar"
   },
   "item.label.Docs": {
@@ -17,14 +17,14 @@
   },
   "item.label.Must read for Neo-Tantrikas": {
     "message": "À lire pour les Neo-Tantrikas",
-    "description": "Un texte à lire absolument pour les Néo-Tantrikas"
+    "description": "Navbar item with label Must read for Neo-Tantrikas"
   },
   "item.label.Ethical rules / Code of Conduct": {
     "message": "Règles éthiques / Code de conduite",
     "description": "Navbar item with label Ethical rules / Code of Conduct"
   },
   "item.label.What is Skeptical Tantra ?": {
-    "message": "Qu'est-ce le Tantra Sceptique ?",
+    "message": "Qu'est-ce le Tantra entre Sceptiques ?",
     "description": "Navbar item with label What is Skeptical Tantra ?"
   },
   "item.label.Learning paths": {

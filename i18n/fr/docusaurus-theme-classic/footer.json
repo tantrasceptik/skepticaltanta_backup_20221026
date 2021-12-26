@@ -36,7 +36,19 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/Skeptical-Tantra/skeptical-tantra"
   },
   "copyright": {
-    "message": "Copyright © 2021 Tantra Sceptique. Fabriqué avec Docusaurus.",
+    "message": "Copyright © 2021 Tantra entre Sceptiques. Fabriqué avec Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.title.Contribute": {
+    "message": "Contribute",
+    "description": "The title of the footer links column with title=Contribute in the footer"
+  },
+  "link.item.label.Forum": {
+    "message": "Forum",
+    "description": "The label of footer link with label=Forum linking to https://github.com/Skeptical-Tantra/skeptical-tantra/discussions"
+  },
+  "link.item.label.How to contribute ?": {
+    "message": "How to contribute ?",
+    "description": "The label of footer link with label=How to contribute ? linking to docs/what/contribute"
   }
 }

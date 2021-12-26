@@ -32,7 +32,7 @@ En revanche, une seule personne est suffisante pour décider du rétrécissement
 
 5. Aucun objectif
 
-Peut-être un des points les plus difficiles à atteindre en Tantra Sceptique, être capable de lâcher prise et se laisser aller sans objectif particulier pendant l'expérimentation.
+Peut-être un des points les plus difficiles à atteindre en Tantra entre Sceptiques, être capable de lâcher prise et se laisser aller sans objectif particulier pendant l'expérimentation.
 
 6. Suspendre son jugement
 
@@ -42,7 +42,7 @@ Exemple : Se déshabiller devant quelqu'un d'autre
 
 7. Humilité
 
-Même après des années d'expérience dans le Tantra Sceptique, il est essentiel de rester humble, car chaque personne et chaque expérience est unique, il est impossible d'anticiper comment l'autre vivra l'expérience.
+Même après des années d'expérience dans le Tantra entre Sceptiques, il est essentiel de rester humble, car chaque personne et chaque expérience est unique, il est impossible d'anticiper comment l'autre vivra l'expérience.
 
 8. Transmission de connaissances fiables
 

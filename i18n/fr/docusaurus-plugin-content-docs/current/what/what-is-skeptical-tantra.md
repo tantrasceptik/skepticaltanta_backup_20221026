@@ -1,20 +1,20 @@
 ---
-title: Qu'est ce le Tantra Sceptique ?
+title: Qu'est ce le Tantra entre Sceptiques ?
 id: what-is-skeptical-tantra
 sidebar_position: 3
 ---
 
-Le Tantra Sceptique, ce sont des expérimentations autour des effets de groupe et/ou du toucher, entre adultes consentants qui respectent un code de conduite.
+Le Tantra entre Sceptiques, ce sont des expérimentations autour des effets de groupe et/ou du toucher, entre adultes consentants qui respectent un code de conduite.
 
 Ce cadre permet aux personnes d’expérimenter une palette de situations, afin d’avoir un meilleur contrôle de leur propre corps dans ces situations, notamment des situations autour de la gestion du désir.
 
-Le Tantra Sceptique est né suite à la rencontre d'une dizaine de Tantrikas Sceptiques qui explor(ai)ent le Néo-Tantra depuis des années en sous-marin, et qui estiment que les croyances New Age sont un frein pour développer le potentiel de ce qui a été découvert par les Néo-Tantrikas via les pratiques Tantriques.
+Le Tantra entre Sceptiques est né suite à la rencontre d'une dizaine de Tantrikas Sceptiques qui explor(ai)ent le Néo-Tantra depuis des années en sous-marin, et qui estiment que les croyances New Age sont un frein pour développer le potentiel de ce qui a été découvert par les Néo-Tantrikas via les pratiques Tantriques.
 
 De plus, la crise sanitaire du COVID-19 a été l'élément déclencheur pour promouvoir le Scepticisme ainsi que la Zététique au sein de la communauté Néo-Tantrique.
 
 ## Les options à choisir 
 
-Pour construire le cadre d'une session de Tantra Sceptique, plusieurs options sont possibles:
+Pour construire le cadre d'une session de Tantra entre Sceptiques, plusieurs options sont possibles:
 
 1. Le support d’expérimentation :
     1. futon
@@ -45,7 +45,7 @@ Pour construire le cadre d'une session de Tantra Sceptique, plusieurs options so
 
 ## Pourquoi “Tantra” ?
 
-Parce que la plupart des exercices dans le Tantra Sceptique sont grandement inspirés des pratiques du Neo-Tantra, qui se basent principalement sur des croyances New Age pour justifier leurs exercices.
+Parce que la plupart des exercices dans le Tantra entre Sceptiques sont grandement inspirés des pratiques du Neo-Tantra, qui se basent principalement sur des croyances New Age pour justifier leurs exercices.
 
 ## Pourquoi “Sceptique” ?
 

@@ -5,7 +5,7 @@ sidebar_position: 2
 
 **Attention** : pour l'instant, la totalité du contenu sur Internet à propos du Tantra est plus ou moins imprégné par les explications de la spiritualité New Age, c'est important de bien séparer les explications qui sont la plupart du temps à côté de la plaque scientifiquement parlant et les pratiques, dont une majeure partie pourraient être intéressantes à reprendre.
 
-D'ailleurs, nous ne nous baserons **pas** sur les auteurs connus dans le Néo-Tantra comme source d'information pour le Tantra Sceptique, car nous estimons que leur manque de connaissance dans la méthode Scientifique et leur amour pour la spiritualité New Age en font des sources d'informations **non-fiables** pour expliquer les bienfaits du Tantra.
+D'ailleurs, nous ne nous baserons **pas** sur les auteurs connus dans le Néo-Tantra comme source d'information pour le Tantra entre Sceptiques, car nous estimons que leur manque de connaissance dans la méthode Scientifique et leur amour pour la spiritualité New Age en font des sources d'informations **non-fiables** pour expliquer les bienfaits du Tantra.
 
 Un article assez générique à propos du Néo-Tantra :
 https://www.passeportsante.net/fr/Actualites/Dossiers/ArticleComplementaire.aspx?doc=sexualite_sante_tantra_do 
