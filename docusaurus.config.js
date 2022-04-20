@@ -12,11 +12,6 @@ module.exports = {
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
   themeConfig: {
-    gtag: {
-      trackingID: 'G-LLQEBL65WS',
-      // Champs facultatifs.
-      anonymizeIP: false, // Les IP doivent-elles être anonymisées ?
-    },
     navbar: {
       title: 'Skeptical Tantra & Sexuality',
       logo: {
@@ -149,6 +144,10 @@ module.exports = {
           editUrl:
             'https://github.com/Skeptical-Tantra/skeptical-tantra/tree/main',
           editLocalizedFiles: true,
+        },
+        gtag: {
+          trackingID: 'G-LLQEBL65WS',
+          anonymizeIP: false,
         },
         blog: {
           showReadingTime: true,
