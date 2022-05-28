@@ -1,7 +1,7 @@
 ---
-title: Group exercices
-id: group
-sidebar_position: 2
+title: ... Fakemeds
+id: Fakemeds
+sidebar_position: 4
 ---
 
 Work in progress, please read French version

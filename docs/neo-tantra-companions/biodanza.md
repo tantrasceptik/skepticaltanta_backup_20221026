@@ -1,6 +1,6 @@
 ---
-title: Group exercices
-id: group
+title: ... Biodanza
+id: biodanza
 sidebar_position: 2
 ---
 

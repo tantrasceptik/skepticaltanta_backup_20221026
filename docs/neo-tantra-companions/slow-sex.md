@@ -1,7 +1,7 @@
 ---
-title: Neo-Tantra and Slow Sex
+title: ... Slow Sex
 id: slow-sex
-sidebar_position: 2
+sidebar_position: 7
 ---
 
 Work in progress, please read French version
