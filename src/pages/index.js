@@ -83,7 +83,7 @@ export default function Home() {
         <section className={styles.features}>
               <div className="container">
                 <div className="row">
-                  <b><Translate id="homepage.disclaimer">Disclaimer:</Translate>&nbsp;</b><Translate id="homepage.warning">The english content is not yet written, only French version has been written. The content of this Website is not a list of exercices you must follow, you have the full responsibility of your experimentations. Moreover, the content of this Website can change at anytime, please check the number version of documentation. Version 0.1.1</Translate>
+                  <b><Translate id="homepage.disclaimer">Disclaimer:</Translate>&nbsp;</b><Translate id="homepage.warning">The english content is not yet written, only French version has been written. The content of this Website is not a list of exercices you must follow, you have the full responsibility of your experimentations. Moreover, the content of this Website can change at anytime, please check the number version of documentation. Version 0.1.2</Translate>
                 </div>
               </div>
         </section>
