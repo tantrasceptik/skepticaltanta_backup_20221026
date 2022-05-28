@@ -9,9 +9,9 @@ Les deux principaux challenges pour un scientifique, un sceptique ou un zététi
 1. Comprendre le champ lexical utilisé: Pour cela, [cette table de rosette New Age <=> Tantra entre Sceptiques](what/translator.md) devrait vous aider
 2. Respecter les différentes croyances qui circulent dans les événements Neo-Tantra
 
-**Le but n'est clairement pas de changer les croyances des participants, et il est beaucoup plus facile de cacher sa part scientifique que dire aux autres qui nous sommes réellement.**
+**Le but n'est clairement pas de changer les croyances des participants, et il est beaucoup plus facile d'éviter de rentrer dans les détails de comment nous appréhendons le monde via la méthodologie scientifique et la zététique.**
 
-Donc, même quand on va dans un stage Tantra, on y va d'abord pour **soi**, il peut être bien de se préparer psychologiquement que lors des discussions informelles, ces différents sujets soient abordés, qu'ils seront considérés comme vrai par le groupe, et que la médecine classique et la science en général sera considéré comme quelque chose à éviter:
+Donc, même quand nous allons dans un stage Tantra, nous y allons d'abord pour **soi**, il peut être bien de se préparer mentalement que durant des discussions informelles, ces différents sujets soient abordés, qu'ils seront considérés comme vrais par le groupe, et que la médecine scientifique et la science en général sera considéré comme quelque chose à éviter:
 
 1. Chamanisme
 2. Naturopathie
@@ -26,8 +26,11 @@ Donc, même quand on va dans un stage Tantra, on y va d'abord pour **soi**, il p
 11. Sorcellerie
 12. ...
 
-Une des astuces, c'est de s'imaginer de voyager à travers le temps, à une époque où la science était minoritaire, et de se projeter à une époque ou les croyances proches du New Age étaient majoritaires et où la science était très peu présente dans la vie quotidienne.
+Plusieurs astuces sont possibles:
+1. Changer de conversation ou s'éloigner quand ces sujets sont abordés.
+2. Essayer d'expliquer que nous avons une autre vision du monde, mais cela risque de crisper le public.
+3. S'imaginer de voyager à travers le temps, à une époque où la science était minoritaire, et de se projeter à une époque ou les croyances proches du New Age étaient majoritaires et où la science était très peu présente dans la vie quotidienne.
 
-De plus, il est important de concentrer son attention sur les pratiques et non sur les explications fournies, la plupart des événements Neo-Tantra font la part belle à la pratique et passent très peu de temps à fournir des explications, proportionnellement parlant.
+De plus, il est important de concentrer son attention sur les pratiques et non sur les explications fournies, la plupart des événements Neo-Tantra font la part belle à la pratique et passent très peu de temps à fournir des explications.
 
 Et pour finir, cela permet également de travailler ses capacités d'empathie ainsi que de respect en présentiel, même si c'est de temps en temps compliqué sur certains sujets comme la vaccination ou encore la 5G.
