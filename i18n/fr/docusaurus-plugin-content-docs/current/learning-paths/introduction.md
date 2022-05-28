@@ -11,4 +11,5 @@ Au contraire, sentez-vous libres de les **adapter** en fonction des participantÂ
 # Modules
 
 1. [Consentement mutuel et limites](mutual-consent-and-limits)
-2. [Exploration d'une zone du corps](body-aera-exploration)
+2. [Gestion du dÃ©sir](desire-management)
+3. [multi-orgasmes - homme](multi-orgasm-man)
