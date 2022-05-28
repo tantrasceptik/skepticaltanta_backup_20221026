@@ -4,7 +4,7 @@ id: what-is-skeptical-tantra
 sidebar_position: 3
 ---
 
-Le Tantra entre Sceptiques, ce sont des expérimentations autour des effets de groupe et/ou du toucher, entre adultes consentants qui respectent un code de conduite.
+Le Tantra entre Sceptiques, ce sont des expérimentations autour des effets de groupe et/ou du toucher, entre adultes consentant·e·s qui respectent un [code de conduite](ethical/ethical-code-of-conduct.md).
 
 Ce cadre permet aux personnes d’expérimenter une palette de situations, afin d’avoir un meilleur contrôle de leur propre corps dans ces situations, notamment des situations autour de la gestion du désir.
 
@@ -50,6 +50,7 @@ Parce que la plupart des exercices dans le Tantra entre Sceptiques sont grandeme
 
 ## Pourquoi “Sceptique” ?
 
-Pour expliquer d’un point de vue le plus scientifique possible les pratiques, en se fondant notamment sur le scepticisme scientifique : https://fr.wikipedia.org/wiki/Scepticisme_scientifique 
+Pour expliquer d’un point de vue le plus scientifique possible les pratiques, en se fondant notamment sur [le scepticisme scientifique](https://fr.wikipedia.org/wiki/Scepticisme_scientifique)
 
-C’est un courant de pensée qui étudie les phénomènes paranormaux en utilisant la méthode scientifique et également un mouvement militant de la promotion de l’esprit critique ainsi que de la pédagogie scientifique : https://www.youtube.com/watch?v=g7m5-auOUDM&list=PLHvR7ldCNjyushx52znVzB0kvZoEkvl_B 
+C’est un courant de pensée, nommé scepticisme ou encore zététique, qui étudie les phénomènes paranormaux en utilisant la méthode scientifique et également un mouvement militant de la promotion de la pensée critique ainsi que de la pédagogie scientifique, une vidéo de présentation: 
+<iframe src="https://www.youtube.com/embed/g7m5-auOUDM" frameborder="0" allowfullscreen width="100%" height="480" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
