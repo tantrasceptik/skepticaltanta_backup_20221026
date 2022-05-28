@@ -1,6 +1,6 @@
 ---
-title: "Module 2: Body area exploration"
-id: body-aera-exploration
+title: "Module 2: Desire management"
+id: desire-management
 sidebar_position: 3
 ---
 
