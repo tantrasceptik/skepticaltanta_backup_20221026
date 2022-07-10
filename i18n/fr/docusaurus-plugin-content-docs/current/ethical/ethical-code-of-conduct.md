@@ -44,7 +44,7 @@ Exemple : Se déshabiller devant quelqu'un d'autre
 
 Même après des années d'expérience dans le Tantra entre Sceptiques, il est essentiel de rester humble, car chaque personne et chaque expérience est unique, il est impossible d'anticiper comment l'autre vivra l'expérience.
 
-## 8. Eviter les relations avec un rapport de domination/soumission
+## 8. Éviter les relations avec un rapport de domination/soumission
 
 Des relations avec un rapport de domination/soumission peuvent être présentes entre les personnes qui expérimentent le tantra entre sceptiques.
 
@@ -52,7 +52,7 @@ Même si ce rapport de domination/soumission est entre personnes consentantes, i
 
 ## 9. Refuser les violences sexuelles et sexistes
 
-Le contenu de ce site Web peut être détourné par des prédatrices & prédateurs sexuels afin de commettre des violences sexuelles, il est important de le souligner et de rappeler à nouveau qu'il est extrèmement important de poser le cadre avant de pratiquer ainsi que respecter le cadre pendant, comme défini dans le point 2.
+Le contenu de ce site Web peut être détourné par des prédatrices & prédateurs sexuels afin de commettre des violences sexuelles, il est important de le souligner et de rappeler à nouveau qu'il est extrêmement important de poser le cadre avant de pratiquer ainsi que respecter le cadre pendant, comme défini dans le point 2.
 
 ## 10. Transmission de connaissances fiables
 
