@@ -24,7 +24,7 @@
     "description": "The label for category Ethical rules / Code of Conduct in sidebar docs"
   },
   "sidebar.docs.category.Meditations": {
-    "message": "Meditations",
+    "message": "Méditations",
     "description": "The label for category Meditations in sidebar docs"
   },
   "sidebar.docs.category.Tantra exercices": {
@@ -38,5 +38,13 @@
   "sidebar.docs.category.Tantric Massages": {
     "message": "Tantric Massages",
     "description": "The label for category Tantric Massages in sidebar docs"
+  },
+  "sidebar.docs.category.Exercices": {
+    "message": "Exercices",
+    "description": "The label for category Exercices in sidebar docs"
+  },
+  "sidebar.docs.category.Massages": {
+    "message": "Massages",
+    "description": "The label for category Massages in sidebar docs"
   }
 }

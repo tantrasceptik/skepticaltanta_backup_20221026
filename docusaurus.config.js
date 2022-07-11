@@ -95,17 +95,17 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Forum',
-              href: 'https://github.com/Skeptical-Tantra/skeptical-tantra/discussions',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/tantra.entre.sceptiques/',
             },
-        //     {
-        //       label: 'Facebook',
-        //       href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //     },
-        //     {
-        //       label: 'Discord',
-        //       href: 'https://discordapp.com/invite/docusaurus',
-        //     },
+            {
+              label: 'Facebook group',
+              href: 'https://www.facebook.com/groups/tantraentresceptiques',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/TantraSceptique',
+            },
           ],
         },
         {
