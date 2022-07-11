@@ -21,3 +21,21 @@ Dans notre cas, c'est l'expérimentation autour du toucher, en s'inspirant par m
 4. Pour permettre à certain·e·s croyant·e·s dans le New Age de peut-être s'intéresser au scepticisme
 5. De permettre à des débutant·e·s en Tantra d'avoir un autre son de cloche dans les explications fournies, qui ne soient pas des explications qui viennent de croyances New Age
 6. Le dernier et non des moindres, c'est qu'une partie de la communauté Sceptique est très prompte à juger une pratique à partir de son nom uniquement, or ceci n'est pas vraiment une attitude recommandée dans la pratique du scepticisme, c'est un bon excercice pratique pour la communauté Sceptique de creuser avant de juger.
+
+## J'ai rencontré quelqu'un qui prétend organiser des ateliers de type "Tantra entre Sceptiques" ou quelqu'un me propose de me former, comment puis-je lui faire confiance ?
+
+Actuellement, les Tantrikas Sceptiques qui sont derrière cette initiative n'organisent pas d'ateliers ni de formations.
+
+Cela changera peut-être un jour, mais pour l'instant, nous voulons en priorité répertorier les différentes pratiques tantriques.
+
+Ce site Web sera mis à jour en fonction de l'évolution sur cette question.
+
+## Suite à la lecture de ce site Web, j'aimerais organiser des ateliers "Tantra entre Sceptiques", comment je peux être reconnu ?
+
+Même réponse que la précédente question.
+
+## Comment contacter les personnes derrière cette initiative ?
+
+Le plus simple étant via le chat de notre page Facebook: https://www.facebook.com/tantra.entre.sceptiques/
+
+Attention, nous sommes bénévoles, nous mettons du temps à répondre.
