@@ -163,7 +163,7 @@ module.exports = {
     ],
   ],
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'fr',
     locales: ['en', 'fr'],
     localeConfigs: {
       en: {
