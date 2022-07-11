@@ -17,14 +17,19 @@ Si à un moment quelqu’un ressent un inconfort dans l’expérimentation, il p
 
 Si une personne vous pousse à dépasser le cadre, en particulier une figure d'autorité comme une formatrice ou un formateur, alors il vaut mieux demander à la personne de respecter les limites, voire cesser la collaboration si un besoin de sécurité n'est pas entendu.
 
-## 3. Définition du cadre
+## 3. Prendre aucune substance qui altère le jugement
+
+Afin d'obtenir un consentement dans de bonnes conditions, aucune substance licite ou illite doit être pris comme l'alcool, drogues, médicaments, champignons...
+
+Ceci pour garantir que le consentement recueilli est le plus éclairé possible.
+
+## 4. Définition et respect du cadre
 
 Avant de commencer l'expérimentation, définir un cadre **clair** et **explicite** pour chaque participant.
-Exemple : Tu peux toucher ma tête, mais pas mes cheveux.
 
-## 4. Respect de ce cadre
+**Exemple** : Tu peux toucher ma tête, mais pas mes cheveux.
 
-Un cadre commun est défini par les participant·e·s, et respecté tout le long de l’expérimentation.
+Ce cadre commun est défini par l'ensemble des participant·e·s, et respecté tout le long de l’expérimentation.
 
 Ce cadre peut évoluer lors de l’expérimentation, à partir du moment où tous les participant·e·s sont d’accord pour le transformer.
 
