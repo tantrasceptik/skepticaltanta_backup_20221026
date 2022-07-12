@@ -18,4 +18,4 @@ De plus, si vous souhaitez:
 3. donner des critiques
 4. vous avez du mal à utiliser [GitHub](https://github.com/)
 
-vous pouvez nous contacter sur le [forum de discussions](https://github.com/Skeptical-Tantra/skeptical-tantra/discussions) ou éventuellement par e-mail si vous avez du mal à utiliser GitHub: le.maitre.des.horloges@gmail.com
+vous pouvez nous contacter sur le [groupe Facebook privé du Tantra entre Sceptiques](https://www.facebook.com/groups/tantraentresceptiques).
