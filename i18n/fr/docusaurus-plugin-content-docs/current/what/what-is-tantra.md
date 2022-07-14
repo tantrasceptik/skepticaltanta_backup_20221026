@@ -13,7 +13,7 @@ D'ailleurs, nous ne nous baserons **pas** sur les auteurs connus dans le Néo-Ta
 1. [Retour d'expérience d'une journaliste](https://www.psychologies.com/Couple/Sexualite/Plaisir/Articles-et-Dossiers/Peut-on-apprendre-a-faire-l-amour/J-ai-essaye-le-tantrisme)
 1. [Un reportage sur France 2 à propos du Néo-Tantra (très grand public)](https://www.youtube.com/watch?v=spQfIUW3OME)
 1. [Un TEDx à propos du Néo-Tantra](https://www.youtube.com/watch?v=pv3w9M0niNY)
-1. Un reportage à propos du Néo-Tantra sur Netflix, c'est l'épisode 2 de la série "(Un)Well" ou "L'industrie du bien-être : potions et poisons". Attention, cela ne dure qu'une heure et ils ratissent très large, donc ils montrent très rapidement les aspects positifs et les dérives du Néo-Tantra sans nécessairement creuser, néanmoins les promoteurs du Tantra et les contradicteurs peuvent s'exprimer dans ce reportage : https://www.netflix.com/be-fr/title/81044208 
+1. [Un reportage à propos du Néo-Tantra sur Netflix, c'est l'épisode 2 de la série "(Un)Well" ou "L'industrie du bien-être : potions et poisons". Attention, cela ne dure qu'une heure et ils ratissent très large, donc ils montrent très rapidement les aspects positifs et les dérives du Néo-Tantra sans nécessairement creuser, néanmoins les promoteurs du Tantra et les contradicteurs peuvent s'exprimer dans ce reportage](https://www.netflix.com/be-fr/title/81044208)
 
 ## Dérives du Néo-Tantra
 
