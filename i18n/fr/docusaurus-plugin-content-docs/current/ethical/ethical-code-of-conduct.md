@@ -17,7 +17,7 @@ Si à un moment quelqu’un ressent un inconfort dans l’expérimentation, il p
 
 Si une personne vous pousse à dépasser le cadre, en particulier une figure d'autorité comme une formatrice ou un formateur, alors il vaut mieux demander à la personne de respecter les limites, voire cesser la collaboration si un besoin de sécurité n'est pas entendu.
 
-## 3. Prendre aucune substance qui altère le jugement
+## 3. Ne prendre aucune substance qui altère le jugement
 
 Afin d'obtenir un consentement dans de bonnes conditions, aucune substance licite ou illite doit être pris comme l'alcool, drogues, médicaments, champignons...
 
