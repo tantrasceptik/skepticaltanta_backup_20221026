@@ -280,5 +280,8 @@
   "theme.blog.post.readMoreLabel": {
     "message": "En savoir plus sur {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "homepage.presentation.slides": {
+    "message": "Présentation au format PDF"
   }
 }
