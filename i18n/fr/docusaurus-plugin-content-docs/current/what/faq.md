@@ -25,9 +25,6 @@ Dans notre cas, c'est l'expérimentation autour du toucher, en s'inspirant par m
 ## J'ai rencontré quelqu'un qui prétend organiser des ateliers de type "Tantra entre Sceptiques" ou quelqu'un me propose de me former, comment puis-je lui faire confiance ?
 
 Actuellement, les Tantrikas Sceptiques qui sont derrière cette initiative n'organisent pas d'ateliers ni de formations.
-
-Cela changera peut-être un jour, mais pour l'instant, nous voulons en priorité répertorier les différentes pratiques tantriques.
-
 Ce site Web sera mis à jour en fonction de l'évolution sur cette question.
 
 ## Suite à la lecture de ce site Web, j'aimerais organiser des ateliers "Tantra entre Sceptiques", comment je peux être reconnu ?
