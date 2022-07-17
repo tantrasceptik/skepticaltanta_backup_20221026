@@ -13,9 +13,10 @@ Concrètement, en bas de chaque page de ce site Web, vous avez un lien **Éditer
 Si vous ne connaissez pas [GitHub](https://github.com/), vous pouvez lire [cette documentation](https://docs.microsoft.com/fr-fr/learn/modules/introduction-to-github/2-what-is-github).
 
 De plus, si vous souhaitez:
+
 1. discuter de manière plus générale à propos du Tantra entre Sceptiques
-2. proposer des suggestions
-3. donner des critiques
-4. vous avez du mal à utiliser [GitHub](https://github.com/)
+1. proposer des suggestions
+1. donner des critiques
+1. vous avez du mal à utiliser [GitHub](https://github.com/)
 
 vous pouvez nous contacter sur le [groupe Facebook privé du Tantra entre Sceptiques](https://www.facebook.com/groups/tantraentresceptiques).

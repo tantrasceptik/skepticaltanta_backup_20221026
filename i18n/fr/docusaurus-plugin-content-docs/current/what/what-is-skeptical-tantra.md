@@ -12,7 +12,7 @@ Le Tantra entre Sceptiques est né suite à la rencontre d'une dizaine de Tantri
 
 De plus, la crise sanitaire du COVID-19 a été l'élément déclencheur pour promouvoir le Scepticisme ainsi que la Zététique au sein de la communauté Néo-Tantrique.
 
-## Les options à choisir 
+## Les options à choisir
 
 Pour construire le cadre d'une session de Tantra entre Sceptiques, plusieurs options sont possibles:
 
@@ -52,5 +52,5 @@ Parce que la plupart des exercices dans le Tantra entre Sceptiques sont grandeme
 
 Pour expliquer d’un point de vue le plus scientifique possible les pratiques, en se fondant notamment sur [le scepticisme scientifique](https://fr.wikipedia.org/wiki/Scepticisme_scientifique)
 
-C’est un courant de pensée, nommé scepticisme ou encore zététique, qui étudie les phénomènes paranormaux en utilisant la méthode scientifique et également un mouvement militant de la promotion de la pensée critique ainsi que de la pédagogie scientifique, une vidéo de présentation: 
+C’est un courant de pensée, nommé scepticisme ou encore zététique, qui étudie les phénomènes paranormaux en utilisant la méthode scientifique et également un mouvement militant de la promotion de la pensée critique ainsi que de la pédagogie scientifique, une vidéo de présentation:
 <iframe src="https://www.youtube.com/embed/g7m5-auOUDM" frameborder="0" allowfullscreen width="100%" height="480" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
