@@ -18,7 +18,7 @@ Donc, quand nous allons dans un stage Tantra, nous y allons d'abord pour **soi**
 
 Il est important de se préparer mentalement à ces discussions informelles, car il y aura peut-être des sujets qui seront considérés comme la Vérité par le groupe.
 
-De plus, la médecine scientifique et la science en général seront considérés comme des sujets à éviter.
+De plus, la médecine scientifique et la science en général seront considérés comme des sujets et/ou des pratiques à éviter.
 
 ## Sujets qui seront peut-être abordés
 
@@ -43,7 +43,7 @@ De plus, la médecine scientifique et la science en général seront considéré
 
 ## conclusion
 
-Il est important de concentrer son attention sur les pratiques et non sur les explications fournies, la plupart des événements éeo-Tantra font la part belle à la pratique et passent très peu de temps à fournir des explications.
+Il est important de concentrer son attention sur les pratiques et non sur les explications fournies, la plupart des événements Néo-Tantra font la part belle à la pratique et passent très peu de temps à fournir des explications.
 
 Cela permet également de travailler ses capacités d'empathie ainsi que de respect en face à face, même si c'est de temps en temps compliqué sur certains sujets comme la vaccination ou encore la 5G.
 
