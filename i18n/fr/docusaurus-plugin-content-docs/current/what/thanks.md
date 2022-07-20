@@ -22,5 +22,6 @@ Pour des raisons d'anonymat, la plupart des noms ont été réduits à leur init
 1. M. - Tantrika Sceptique
 1. N.
 1. O.
-1. Thomas G. - Sceptique
 1. [Sohan Tricoire]( https://sohan-tricoire.jimdofree.com/) - ancienne naturopathe devenue sceptique
+1. Thomas G. - Sceptique
+1. V.

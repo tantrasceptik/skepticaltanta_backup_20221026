@@ -4,13 +4,21 @@ id: sti
 sidebar_position: 12
 ---
 
-*En cours de relecture, peut être amener à changer*
+## Remarque importante
 
-C'est une croyance courante dans le milieu du Néo-Tantra de penser que la spiritualité protège des Infections Sexuellement Transmissibles (IST).
+Même si les pratiques dans le Tantra classique (hors Tantra sexuel) ont à priori peu de risques de transmission d'Infections Sexuellement Transmissibles (IST), néanmoins, il nous a semblé important de faire de l'information sur la santé sexuelle.
+
+En effet, c'est une croyance courante dans le milieu du Néo-Tantra de penser que la spiritualité protège des ISTs.
 
 Malheureusement, cela paraît vraiment très peu probable que la spiritualité puisse avoir un quelconque impact sur la protection contre les ISTs.
 
-Vous devez donc être attentifs à des brûlures en urinant, des pertes vaginales, des boutons, des verrues ou des plaies au niveau des organes sexuels, ainsi que des démangeaisons, la quasi-totalité des ISTs, sauf le [VIH](https://preventionsida.org/fr/vih/le-vih-cest-quoi/), ont des traitements efficaces, si et seulement si, vous vous faites régulièrement [dépistés dans des lieux spécialisés](https://www.sida-info-service.org/annuaire/) et traités (cancer...), car certaines ISTs peuvent devenir dangereuses au fil des années.
+## Les risques avec les ISTs
+
+Vous devez être attentifs à des brûlures en urinant, des pertes vaginales, des boutons, des verrues ou des plaies au niveau des organes sexuels, ainsi que des démangeaisons.
+
+De plus, sachez qu'une majorité d'ISTs n'ont pas de symptômes, donc, dans tous les cas, si vous êtes sexuellement actives ou actifs, le [dépistage](https://www.sida-info-service.org/annuaire/) est très important à réaliser au moins une fois dans sa vie.
+
+la quasi-totalité des ISTs, sauf le [VIH](https://preventionsida.org/fr/vih/le-vih-cest-quoi/), ont des traitements efficaces, si et seulement si, vous vous faites régulièrement [dépistés dans des lieux spécialisés](https://www.sida-info-service.org/annuaire/) et traités, car certaines ISTs peuvent devenir dangereuses au fil des années (cancer...).
 
 Si vous changez régulièrement de partenaires, un dépistage tous les 6 mois est un délai raisonnable.
 
@@ -30,7 +38,7 @@ Si vous changez régulièrement de partenaires, un dépistage tous les 6 mois es
 
 ### Relation sexuelle avec un·e partenaire occasionnel·le
 
-1. Mettre un préservatif, la seule protection efficace contre les ISTs.
+1. Mettre un préservatif, la seule protection efficace contre la plupart des ISTs.
 1. Si le massage tantrique est un préliminaire à une relation sexuelle avec pénétration, éviter de huiler les parties génitales, en particulier, l'intérieur du vagin, sinon [le préservatif a des risques de  craquage](https://www.sida-info-service.org/comment-limiter-les-risques-de/)
 1. Même s'il y a moins de risques, les fellations ainsi que les cunnilingus ont des risques de transmission d'IST.
 
