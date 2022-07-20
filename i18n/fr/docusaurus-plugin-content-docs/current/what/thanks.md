@@ -10,7 +10,7 @@ Nous remercions autant les personnes qui sont dans une approche de tantra spirit
 
 Pour des raisons d'anonymat, la plupart des noms ont été réduits à leur initiale:
 
-1. A.
+1. Adrien - Tantrika Sceptique
 1. Cathy L. - Tantrika Sceptique
 1. C.
 1. Clovis L. - Tantrika Sceptique
