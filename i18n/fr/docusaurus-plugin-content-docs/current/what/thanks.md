@@ -8,6 +8,9 @@ Le tantra entre Sceptiques ne serait rien sans toutes et tous ces bénévoles qu
 
 Nous remercions autant les personnes qui sont dans une approche de tantra spirituel et qui ont assez d'ouverture d'esprit pour lire et proposer des suggestions d'améliorations, même si elles n'en approuvent pas le contenu, que les sceptiques qui n'ont pas oublié le but originel de la zététique, et savent aller au delà du champ lexical du New-Age.
 
+**Donc, ATTENTION: Une partie des relectrices et relecteurs sont en DÉSACCORD avec le contenu de ce site Web, mais iels ont eu assez d'ouverture d'esprit pour en faire la relecture.
+Nous vous demanderons donc d'éviter de faire du déshonneur par association ainsi que faire du harcèlement ciblé, en particulier sur les personnes qui sont dans une démarche spirituelle. Merci.**
+
 Pour des raisons d'anonymat, la plupart des noms ont été réduits à leur initiale:
 
 1. Adrien - Tantrika Sceptique
