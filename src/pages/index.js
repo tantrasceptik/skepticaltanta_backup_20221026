@@ -87,7 +87,7 @@ export default function Home() {
                   <br />
                   <iframe src="https://www.youtube.com/embed/fKy7VtgM5V4" title="YouTube video player" frameborder="0" width="100%" height="480" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   <br />
-                  <b><Translate id="homepage.disclaimer">Disclaimer:</Translate>&nbsp;</b><Translate id="homepage.warning">The english content is not yet written, only French version has been written. The content of this Website is not a list of exercices you must follow, you have the full responsibility of your experiments. Moreover, the content of this Website can change at anytime, please check the number version of documentation. Current version: 0.2.3</Translate>
+                  <b><Translate id="homepage.disclaimer">Disclaimer:</Translate>&nbsp;</b><Translate id="homepage.warning">The english content is not yet written, only French version has been written. The content of this Website is not a list of exercices you must follow, you have the full responsibility of your experiments. Moreover, the content of this Website can change at anytime, please check the number version of documentation. Current version: 0.3.0.0</Translate>
                 </div>
               </div>
         </section>
