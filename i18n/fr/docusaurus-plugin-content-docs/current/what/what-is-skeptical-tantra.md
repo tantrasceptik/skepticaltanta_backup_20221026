@@ -4,9 +4,19 @@ id: what-is-skeptical-tantra
 sidebar_position: 3
 ---
 
+## Définitions
+
+### Définition 1
+
 Le Tantra entre Sceptiques, ce sont des expérimentations autour des effets de groupe et/ou du toucher, entre adultes consentant·e·s qui respectent un [code de conduite](ethical/ethical-code-of-conduct.md).
 
 Ce cadre permet aux personnes d’expérimenter une palette de situations, afin d’avoir un meilleur contrôle de leur propre corps dans ces situations, notamment des situations autour de la gestion du désir.
+
+### Définition 2
+
+Mise en oeuvre de pratiques cadrées qui visent à sécuriser l'expérimentation des sensations dans un cadre relationnel, et dont il est possible de témoigner en recourant à du vocabulaire non prescriptif.
+
+## Histoire
 
 Le Tantra entre Sceptiques est né suite à la rencontre d'une dizaine de Tantrikas Sceptiques qui explor(ai)ent le Néo-Tantra depuis des années en sous-marin, et qui estiment que les croyances New Age sont un frein pour développer le potentiel de ce qui a été découvert par les Néo-Tantrikas via les pratiques Tantriques.
 
