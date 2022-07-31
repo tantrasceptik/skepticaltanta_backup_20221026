@@ -3,7 +3,7 @@ title: être aimable durant un événement Neo-Tantra
 sidebar_position: 2
 ---
 
-Le Néo-Tantra vient avec son lot de croyances, principalement venant du New Age.
+Le Néo-Tantra ou Tantra spirituel vient avec son lot de croyances, principalement venant du New Age.
 
 Les deux principales difficultés pour un scientifique, un sceptique ou un zététicien qui s'aventurerait dans un événement Néo-Tantra sont:
 
