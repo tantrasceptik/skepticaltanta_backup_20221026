@@ -34,7 +34,7 @@ module.exports = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'what/what-is-tantra',
+          docId: 'what/what-is-skeptical-tantra',
           label: 'What is Skeptical Tantra ?',
         },
         {
@@ -100,7 +100,7 @@ module.exports = {
             },
             {
               label: 'Facebook group',
-              href: 'https://www.facebook.com/groups/tantraentresceptiques',
+              href: 'https://www.facebook.com/groups/curieuses.et.curieux.du.tantra.entre.sceptiques/',
             },
             {
               label: 'Twitter',
