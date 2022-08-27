@@ -1,7 +1,7 @@
 ---
 title: ... Histoire
 id: history
-sidebar_position: 6
+sidebar_position: 5
 ---
 
 L'histoire du New Age, qui sert de fondation au Néo-Tantra, commence avec [Helena Blavatsky au 19° siècle](https://fr.wikipedia.org/wiki/Helena_Blavatsky).

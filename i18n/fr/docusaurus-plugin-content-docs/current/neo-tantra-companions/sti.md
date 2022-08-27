@@ -1,7 +1,7 @@
 ---
 title: ... Germes & Infections Sexuellement Transmissibles
 id: sti
-sidebar_position: 12
+sidebar_position: 13
 ---
 
 ## Remarque importante
