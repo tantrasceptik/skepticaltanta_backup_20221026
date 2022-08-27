@@ -1,6 +1,6 @@
 ---
 title: À lire pour les Tantrikas spirituels
-id: must-read-for-neo-tantrikas
+id: must-read-for-spiritual-tantrikas
 sidebar_position: 1
 ---
 

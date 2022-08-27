@@ -22,8 +22,8 @@ module.exports = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'must-read-for-neo-tantrikas',
-          label: 'Must read for Neo-Tantrikas',
+          docId: 'must-read-for-spiritual-tantrikas',
+          label: 'Must read for Spiritual Tantrikas',
         },
         {
           type: 'doc',
