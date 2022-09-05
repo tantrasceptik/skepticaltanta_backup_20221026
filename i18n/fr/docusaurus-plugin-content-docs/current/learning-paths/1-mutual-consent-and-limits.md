@@ -14,7 +14,7 @@ Nombre de participant·e·s minimum: **4**
 1. [Algue & poisson clown](practice/exercices/seaweed-clownfish.md)
     1. pendant *m* minutes (10 minutes recommandées)
     1. changer *n* fois de binôme (*n=3* par exemple)
-1. [La peluche](practice/exercices/plush.md)
+1. [Nounours](practice/exercices/teddy.md)
     1. pendant *m* minutes (10 minutes recommandées)
     1. changer *n* fois de binôme (*n=3* par exemple)
 1. Discussion de clôture, chaque personne exprime son ressenti

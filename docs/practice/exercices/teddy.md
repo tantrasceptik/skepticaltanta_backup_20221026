@@ -1,6 +1,6 @@
 ---
-title: Plush
-id: plush
+title: Teddy
+id: teddy
 ---
 
 Work in progress, please read French version
