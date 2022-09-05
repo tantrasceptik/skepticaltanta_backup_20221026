@@ -1,7 +1,7 @@
 ---
-title: "Module 2: Gestion du désir"
+title: "Module 3: Gestion du désir"
 id: desire-management
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 Nombre de participant·e·s minimum: **6**

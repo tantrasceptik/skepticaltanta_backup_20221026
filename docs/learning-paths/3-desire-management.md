@@ -1,7 +1,7 @@
 ---
-title: "Module 2: Desire management"
+title: "Module 3: Desire management"
 id: desire-management
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 Work in progress, please read French version
