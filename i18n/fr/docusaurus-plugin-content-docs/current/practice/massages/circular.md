@@ -8,6 +8,7 @@ Le mouvement circulaire est un des mouvements de base qu'il est important de ma�
 Concrètement, il suffit d'appuyer avec la base de 3 doigts sur la peau, parfois même la paume de la main, et exercer un mouvement lent et circulaire. La pression peut varier tout au long de la pratique.
 
 Une variante existe avec un double mouvement circulaire, comme si on essayait de dessiner une rosace avec les doigts.
+Une main au départ se trouve à midi quant à l'autre à 6h et l'on tourne.
 
 ## Zones à masser
 
