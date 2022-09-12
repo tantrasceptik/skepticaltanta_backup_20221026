@@ -168,7 +168,7 @@
     "message": "Avertissement:"
   },
   "homepage.warning": {
-    "message": "Le contenu de ce site Web est en cours de construction. De plus, il n'y a aucune obligation de pratiquer un des exercices documentés, vous avez l'entière responsabilité de vos expérimentations. Si le contenu de ce site Web vous fait réagir ou si vous avez des remarques, vous pouvez nous contacter via le lien GitHub ci-dessous pour en discuter. Le contenu de ce site Web peut changer à tout moment, prenez note de la version que vous lisez du Tantra entre Sceptiques. Version actuelle: 0.4.0.0"
+    "message": "Le contenu de ce site Web est en cours de construction. De plus, il n'y a aucune obligation de pratiquer un des exercices documentés, vous avez l'entière responsabilité de vos expérimentations. Si le contenu de ce site Web vous fait réagir ou si vous avez des remarques, vous pouvez nous contacter via le lien GitHub ci-dessous pour en discuter. Le contenu de ce site Web peut changer à tout moment, prenez note de la version que vous lisez du Tantra entre Sceptiques. Version actuelle: 0.4.1.0"
   },
   "theme.blog.sidebar.navAriaLabel": {
     "message": "Blog recent posts navigation",
