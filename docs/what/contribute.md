@@ -19,4 +19,4 @@ Also, if you want to:
 1. give criticism
 1. have trouble using [GitHub](https://github.com/)
 
-you can contact us on the [private Facebook group of Skeptical Tantra](https://www.facebook.com/groups/tantraentresceptiques).
+you can contact us on the [private Facebook group of Skeptical Tantra](https://www.facebook.com/groups/curious.people.skeptical.tantra).
