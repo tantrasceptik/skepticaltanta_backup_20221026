@@ -83,10 +83,10 @@ export default function Home() {
         <section className={styles.features}>
               <div className="container">
                 <div className="row">
-                <a href='/pdf/Tantra_entre_sceptiques_Présentation.pdf' target="_blank"><Translate id="homepage.presentation.slides">Slides with PDF format</Translate></a>
+                {/* <a href='/pdf/Tantra_entre_sceptiques_Présentation.pdf' target="_blank"><Translate id="homepage.presentation.slides">Slides with PDF format</Translate></a>
                   <br />
                   <iframe src="https://www.youtube.com/embed/fKy7VtgM5V4" title="YouTube video player" frameborder="0" width="100%" height="480" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  <br />
+                  <br /> */}
                   <b><Translate id="homepage.disclaimer">Disclaimer:</Translate>&nbsp;</b><Translate id="homepage.warning">The english content is not yet written, only French version has been written. The content of this Website is not a list of exercices you must follow, you have the full responsibility of your experiments. Moreover, the content of this Website can change at anytime, please check the number version of documentation. Current version: 0.4.0.0</Translate>
                 </div>
               </div>

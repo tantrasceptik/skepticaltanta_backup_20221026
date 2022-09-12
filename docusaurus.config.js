@@ -92,15 +92,28 @@ module.exports = {
         //   ],
         // },
         {
-          title: 'Community',
+          title: 'English Community',
           items: [
             {
               label: 'Facebook',
-              href: 'https://www.facebook.com/tantra.entre.sceptiques/',
+              href: 'https://www.facebook.com/skeptical.tantra',
             },
             {
               label: 'Facebook group',
-              href: 'https://www.facebook.com/groups/curieuses.et.curieux.du.tantra.entre.sceptiques/',
+              href: 'https://www.facebook.com/groups/curious.people.skeptical.tantra',
+            },
+          ],
+        },
+        {
+          title: 'French Community',
+          items: [
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/tantra.entre.sceptiques',
+            },
+            {
+              label: 'Facebook group',
+              href: 'https://www.facebook.com/groups/curieuses.et.curieux.du.tantra.entre.sceptiques',
             },
             {
               label: 'Twitter',
