@@ -1,7 +1,7 @@
 ---
 title: Remerciements
 id: thanks
-sidebar_position: 7
+sidebar_position: 9
 ---
 
 Le tantra entre Sceptiques ne serait rien sans toutes et tous ces bénévoles qui travaillent dans l'ombre pour expérimenter, gérer cette communauté, produire du contenu sur ce site Web et surtout, relire.
