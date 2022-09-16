@@ -42,6 +42,8 @@ Oui, en effet, et nous ne cachons pas nos intentions, c'est indiqué très clair
 
 ## En fait, vous organisez des partouzes / de la prostitution / un harem / ...
 
+Non, nous n'organisons pas de partouzes / prostitution / harem / ..., ce n'est clairement pas notre but, d'autant plus qu'il existe des lieux spécialisés pour ce genre de pratiques, comme les clubs échangistes.
+
 Le principal but de cette initiative, c'est de maintenir ce site Web et de réfléchir collectivement à des nouveaux cadres d'expérimentations respectueux autour du toucher.
 
 Oui, un certain nombre de nos membres qui font parti·e·s du groupe Facebook "[Tantra entre Sceptiques et Zététicien·ne·s - Groupe Principal](https://www.facebook.com/groups/tantra.entre.sceptiques.et.zeteticien.ne.s)" pratiquent entre eux le Tantra entre Sceptiques en respectant notre [code de conduite](../ethical/ethical-code-of-conduct.md), nous ne comptons pas organiser des ateliers ouverts pour le grand public.
@@ -70,7 +72,7 @@ Nous sommes toutes & tous bénévoles, c'est notre décision commune d'investir 
 De notre point de vue, c'est en documentant et en informant le grand public de ce qu'est réellement les pratiques tantriques avec des termes compréhensibles plutôt qu'avec un champ lexical New Age, qu'il sera possible que le grand public se rende compte de ce qu'est réellement le Néo-Tantra.
 1. Les personnes dans la spiritualité New Age qui considèrent qu'il est impossible de faire du Tantra laïc.
 
-D'ailleurs, nous voulons remercier sincèrement toutes et tous nos détracteurs, parce que, même si, certaines remarques sont exprimées de manière très violentes et irrespectueuses de notre code de conduite, notre principal but c'est de trouver des personnes qui vont sincèrement critiquer notre initiative, et grâce l'exposition que nous avons reçu de ces personnes, cela a permis d'augmenter notre audience et de nous faire réfléchir sur notre initiative, ce qui est notre but principal avec le nom de notre initiative.
+D'ailleurs, nous voulons remercier sincèrement toutes et tous nos détracteurs, parce que, même si, certaines remarques sont exprimées de manière très violentes et irrespectueuses de notre code de conduite, notre principal but c'est de trouver des personnes qui vont sincèrement critiquer notre initiative, et grâce à l'exposition que nous avons reçu de ces personnes, cela a permis d'augmenter notre audience et de nous faire réfléchir sur notre initiative, ce qui est notre but principal avec le nom de notre initiative.
 
 ## J'ai rencontré quelqu'un qui prétend organiser des ateliers de type "Tantra entre Sceptiques" ou quelqu'un me propose de me former, comment puis-je lui faire confiance ?
 
