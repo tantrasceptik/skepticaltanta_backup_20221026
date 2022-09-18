@@ -22,6 +22,18 @@ Dans notre cas, c'est l'expérimentation autour du toucher, en s'inspirant par m
 1. De motiver la communauté Sceptique de relire nos contenus et de s'intéresser à notre initiative: Sans le mot "sceptique" dans notre initiative, nous ne pensons pas qu'autant de sceptiques nous auraient aidé et guidé dans notre démarche.
 1. Le dernier et non des moindres, c'est qu'une partie de la communauté Sceptique est très prompte à juger une pratique à partir de son nom uniquement, or ceci n'est pas vraiment une attitude recommandée dans la pratique du scepticisme. C'est un bon exercice pratique pour la communauté Sceptique de creuser avant de juger.
 
+## J'ai trouvé une critique extrèmement violente et/ou injuste à propos du Tantra entre Sceptiques, je vais vous défendre !
+
+Oui, en effet, comme pour toute initiative, il existe des critiques sur Internet, et nous n'aurions pas mis le mot **sceptique** si cela nous pose un problème de recevoir de critiques, au contraire: Nous avons mis le mot **sceptique** afin d'attirer l'attention de la communauté Sceptique sur nos contenus.
+
+Par contre, certaines critiques sont violentes à lire, et nous comprennons que la formulation de ces critiques peuvent choquer nos sympathisant·e·s, néanmoins, nous vous invitons toutes & tous d'éviter de réagir, et en particulier de répondre à cette violence par de la violence: Les gens peuvent changer, et certains contradicteurs d'hier peuvent devenir nos promoteurs dans le futur.
+
+Donc, nous vous invitons, soit de commenter de manière respectueuse & bienveillante en partageant notre FAQ qui pointe vers la ou les question(s) qui correspondent à la critique, soit, si la critique n'est pas traitée dans notre FAQ, de contribuer au projet en nous l'envoyant via [le Facebook Messenger de notre page Facebook](https://www.facebook.com/tantra.entre.sceptique).
+
+De plus, si le propos est injurieux ou grossier, nous vous invitons a éviter toute réaction: arrêtons collectivement certains comportements que les réseaux sociaux essaient de nous forcer de faire.
+
+Par contre, l'initiative Tantra entre Sceptiques soutient toutes & tous nos bénévoles, en particulier les femmes ainsi que les membres de la communauté LGBTQIA+, qui subissent déjà assez de violences dans leur vie de tous les jours.
+
 ## Votre initiative n'a rien à voir avec le scepticisme
 
 Au delà des réponses que vous trouverez dans la question [Pourquoi avoir appelé le "Tantra entre Sceptiques" ainsi ?](#pourquoi-avoir-appelé-le-tantra-entre-sceptiques-ainsi--ne-serait-il-pas-préférable-de-retirer-le-mot-tantra-du-nom-), nous trouvons au contraire que notre démarche s'inscrit dans le scepticisme, car, en premier lieu, comme dans toute communauté sur Internet, il est tout à fait possible qu'une sous-communauté émerge autour d'une thématique ou d'un loisir commun: A notre connaissance personne n'est choqué qu'une initiative comme [ZETETIC GAMERS](https://www.facebook.com/groups/ZETETICGAMERS) existe.
