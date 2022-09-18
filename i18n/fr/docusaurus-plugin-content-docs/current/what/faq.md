@@ -70,9 +70,9 @@ Nous vous invitons à lire notre page [Gestion du projet "Tantra entre Sceptique
 
 ## Votre initiative va être reprise et détournée pour faire subir des violences sexuelles & sexistes
 
-Oui, en effet, c'est malheureusement possible: Comme pour toute dénomination non protégée sur Internet, n'importe qui pourrait se revendiquer tantrika sceptique et commettre des actes pénalement réprensibles: nous faisons notre maximum pour éviter cela, mais nous ne pouvons pas contrôler les comportements des lecteurs anonymes.
+Oui, en effet, c'est malheureusement possible: Comme pour toute dénomination non protégée sur Internet, n'importe qui pourrait se revendiquer tantrika sceptique et commettre des actes pénalement répréhensibles: nous faisons notre maximum pour éviter cela, mais nous ne pouvons pas contrôler les comportements des lecteurs anonymes.
 Malheureusement, les prédateurs sexuels commettent des violences sexuelles & sexistes, et ce sont eux que nous devons collectivement empêcher de nuire.
-Nous condammons fermement les violences sexuelles & sexistes.
+Nous condamnons fermement les violences sexuelles & sexistes.
 
 ## Vous devez arrêter votre initiative
 
