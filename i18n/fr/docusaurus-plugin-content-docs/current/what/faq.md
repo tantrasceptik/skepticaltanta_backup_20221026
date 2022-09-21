@@ -62,7 +62,7 @@ Oui, un certain nombre de nos membres qui font parti·e·s du groupe Facebook "[
 
 De plus, nous pratiquons seulement ce qu'il y a écrit sur notre site Web, or, de notre point de vue, à notre connaissance, cela ne nous semble pas rentrer dans la dénomination "partouze", par exemple le module [Consentement mutuel et limites](../learning-paths/1-mutual-consent-and-limits.md).
 
-Néanmoins, libre à vous de considérer que ce que nous pratiquons rentre dans la catégorie partouze. Nous forcons personne à pratiquer nos propositions.
+Néanmoins, libre à vous de considérer que ce que nous pratiquons rentre dans la catégorie partouze. Nous forçons personne à pratiquer nos propositions.
 
 ## Le "Tantra entre Sceptiques" est géré par une seule personne, ce qui augmente le risque de dérives
 
@@ -70,9 +70,11 @@ Nous vous invitons à lire notre page [Gestion du projet "Tantra entre Sceptique
 
 ## Votre initiative va être reprise et détournée pour faire subir des violences sexuelles & sexistes
 
-Oui, en effet, c'est malheureusement possible: Comme pour toute dénomination non protégée sur Internet, n'importe qui pourrait se revendiquer tantrika sceptique et commettre des actes pénalement répréhensibles: nous faisons notre maximum pour éviter cela, mais nous ne pouvons pas contrôler les comportements des lecteurs anonymes.
-Malheureusement, les prédateurs sexuels commettent des violences sexuelles & sexistes, et ce sont eux que nous devons collectivement empêcher de nuire.
-Nous condamnons fermement les violences sexuelles & sexistes.
+Malheureusement, des prédateurs sexuels commettent déjà des violences sexuelles & sexistes au nom du tantra, et ce sont eux que nous devons collectivement empêcher de nuire. Nous condamnons fermement les violences sexuelles & sexistes.
+
+De plus, il nous semble qu'au contraire, notre initiative de documenter les pratiques tantriques et avoir défini un [code de conduite](../ethical/ethical-code-of-conduct.md) permette au grand public d'identifier les prédateurs sexuels qui ne respecteront pas le code de conduite, en particulier, à notre connaissance, le prédateur sexuel force sa victime en faisant croire qu'avec ses connaissances en tantra, il va la guérir, et en forçant notamment son consentement.
+
+De plus, en effet, c'est malheureusement possible que le tantra entre sceptiques soit détourné par des lecteurs anonymes: Comme pour toute dénomination non protégée sur Internet, n'importe qui pourrait se revendiquer tantrika sceptique et commettre des actes pénalement répréhensibles: nous faisons notre maximum pour éviter cela, mais nous ne pouvons pas contrôler les comportements des lecteurs anonymes.
 
 ## Vous devez arrêter votre initiative
 
