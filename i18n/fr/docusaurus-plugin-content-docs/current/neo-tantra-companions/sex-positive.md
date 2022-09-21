@@ -18,4 +18,4 @@ Les valeurs derrière Sex-Positif sont très proches de celles du tantra entre s
 
 Une partie des Tantrikas Sceptiques font également parti du mouvement Sex-Positif.
 
-Sex-Positif inclus tout un tas de pratiques comme le [BDSM](https://fr.wiktionary.org/wiki/BDSM) alors que le Tantra entre Sceptiques se focalise sur le Tantra.
+Par contre, Sex-Positif inclus tout un tas de pratiques et d'expérimentations comme le [BDSM](https://fr.wiktionary.org/wiki/BDSM) alors que le Tantra entre Sceptiques se focalise sur le Tantra.

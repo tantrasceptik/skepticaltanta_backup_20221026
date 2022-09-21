@@ -17,7 +17,7 @@ Pour des raisons d'anonymat, la plupart des noms ont été réduits à leur init
 1. Cathy L. - Tantrika Sceptique
 1. C.
 1. Clovis L. - Tantrika Sceptique
-1. [Didier de Buisseret](https://presenceasoi.be/) - Spécialiste Tantra et massage Tantrique
+1. D.B. - Spécialiste Tantra et massage Tantrique
 1. G. - Tantrika Sceptique
 1. I.
 1. Laurence R. - Tantrika
