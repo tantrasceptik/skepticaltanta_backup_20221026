@@ -17,7 +17,7 @@ Il est important de noter que, contrairement aux préjugés dans l’inconscient
 
 ## Astuces
 
-1. Pratiquer, pratiquer, pratiquer, avec des personnes qui ont de l'expérience dans le domaine et qui savent tenir le cadre: 
+1. Pratiquer, pratiquer, pratiquer, avec des personnes qui ont de l'expérience dans le domaine et qui savent tenir le cadre:
 la connaissance de gestes techniques n'est qu'un plus dans le massage, c'est le comportement de la personne qui masse qui fait la différence
 1. Se concentrer sur sa respiration, en particulier quand son propre désir est en phase montante
 1. Si on se sent assez à l'aise, masser avec tout son corps (avant-bras, torse...), en complément de ses mains
