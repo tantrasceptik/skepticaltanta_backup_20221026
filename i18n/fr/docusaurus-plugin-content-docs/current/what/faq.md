@@ -28,6 +28,8 @@ Oui, en effet, comme pour toute initiative, il existe des critiques sur Internet
 
 Par contre, certaines critiques sont violentes à lire, et nous comprenons que la formulation de ces critiques peuvent choquer nos sympathisant·e·s, néanmoins, nous vous invitons toutes & tous d'éviter de réagir, et en particulier de répondre à cette violence par de la violence: Les gens peuvent changer, et certains contradicteurs d'hier peuvent devenir nos promoteurs dans le futur.
 
+De plus, en particulier si vous ne contribuez pas activement à cette initiative, évitez de nous défendre aveuglement sans nous connaître: Nous faisons notre maximum pour être prudent et respecter notre propre code de conduite, néanmoins, il y a déjà eu par le passé tout un tas d'initiatives qui ont commencé avec de bonnes intentions et qui ont mal finies, donc, dans l'esprit du scepticisme que nous revendiquons, restez critiques, surtout si vous appréciez notre initiative.
+
 Donc, nous vous invitons, soit de commenter de manière respectueuse & bienveillante en partageant notre FAQ qui pointe vers la ou les question(s) qui correspondent à la critique, soit, si la critique n'est pas traitée dans notre FAQ, de contribuer au projet en nous l'envoyant via [le Facebook Messenger de notre page Facebook](https://www.facebook.com/tantra.entre.sceptique).
 
 De plus, si le propos est injurieux ou grossier, nous vous invitons a éviter toute réaction: arrêtons collectivement certains comportements que les réseaux sociaux essaient de nous forcer de faire.
