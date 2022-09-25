@@ -1,12 +1,18 @@
+cathy-lou:
+  name: Cathy Lou
+  title: mainteneuse actuel du Tantra entre Sceptiques
+  url: https://github.com/1cathylou
+  image_url: https://github.com/1cathylou.png
+  
 le-maitre-des-horloges:
   name: Le Maître des Horloges
-  title: Mainteneur actuel du Tantra entre Sceptiques
+  title: Créateur originel du Tantra entre Sceptiques
   url: https://github.com/le-maitre-des-horloges
   image_url: https://github.com/le-maitre-des-horloges.png
 
 clovis-lacombe:
   name: Clovis Lacombe
-  title: Coordinateur actuel du Tantra entre Sceptiques
+  title: Support technique du Tantra entre Sceptiques
   url: https://github.com/clovis-lacombe
   image_url: https://github.com/clovis-lacombe.png
   
