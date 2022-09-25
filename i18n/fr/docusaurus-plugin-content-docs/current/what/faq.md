@@ -8,7 +8,7 @@ sidebar_position: 6
 
 1. L'approche derrière le **Tantra entre Sceptiques** est similaire à celles de [ZETETIC GAMERS](https://www.facebook.com/groups/ZETETICGAMERS), [Zet && TIC](https://www.facebook.com/groups/zet.tic) ou encore [Zet marteaux](https://www.facebook.com/groups/294521008405129), c'est à dire des Sceptiques/Zététiciens qui se regroupent autour d'une thématique ou d'un loisir.
 Dans notre cas, c'est l'expérimentation autour du toucher, en s'inspirant par moments de pratiques venant du Néo-Tantra, tout en excluant toute forme de spiritualité ou explication New Age comme les chakras.
-1. La majorité des pratiques du Tantra entre Sceptiques vient du Néo-Tantra. Nous ne renions pas cette inspiration.
+1. La majorité des pratiques du Tantra entre Sceptiques s'inspire du Néo-Tantra.
 1. Le mot **Tantra** est déjà connu auprès du grand public, notamment grâce à la presse féminine, dont voici un échantillonnage:
     1. [Psychologies: J’ai essayé le tantrisme](https://www.psychologies.com/Couple/Sexualite/Plaisir/Articles-et-Dossiers/Peut-on-apprendre-a-faire-l-amour/J-ai-essaye-le-tantrisme)
     1. [Santé Magazine: Sexe tantrique : de quoi s'agit-il exactement ?](https://www.santemagazine.fr/psycho-sexo/le-blog-sexo-de-daisy-et-marine/sexe-tantrique-de-quoi-sagit-il-exactement-174532)
@@ -26,7 +26,7 @@ Dans notre cas, c'est l'expérimentation autour du toucher, en s'inspirant par m
 
 Oui, en effet, comme pour toute initiative, il existe des critiques sur Internet, et nous n'aurions pas mis le mot **sceptique** si cela nous pose un problème de recevoir de critiques, au contraire: Nous avons mis le mot **sceptique** afin d'attirer l'attention de la communauté Sceptique sur nos contenus.
 
-Par contre, certaines critiques sont violentes à lire, et nous comprenons que la formulation de ces critiques peuvent choquer nos sympathisant·e·s, néanmoins, nous vous invitons toutes & tous d'éviter de réagir, et en particulier de répondre à cette violence par de la violence: Les gens peuvent changer, et certains contradicteurs d'hier peuvent devenir nos promoteurs dans le futur.
+Par contre, certaines critiques sont violentes à lire, et nous comprenons que la formulation de ces critiques peuvent choquer nos sympathisant·e·s, néanmoins, nous vous invitons toutes & tous d'éviter de réagir, et en particulier de répondre à cette violence par de la violence, afin d'éviter l'escalade, notamment parce que au fil du temps, certaines peuvent changer d'opinion.
 
 De plus, en particulier si vous ne contribuez pas activement à cette initiative, évitez de nous défendre aveuglement sans nous connaître: Nous faisons notre maximum pour être prudent et respecter notre propre code de conduite, néanmoins, il y a déjà eu par le passé tout un tas d'initiatives qui ont commencé avec de bonnes intentions et qui ont mal finies, donc, dans l'esprit du scepticisme que nous revendiquons, restez critiques, surtout si vous appréciez notre initiative.
 
@@ -48,7 +48,8 @@ Il nous semble, de notre point de vue, qu'au contraire, nous sommes en plein dan
 ## Vous faites de l'appropriation culturelle en utilisant le terme "Tantra"
 
 Très bonne remarque, et en effet, même si l'appropriation culturelle a été initié en premier lieu par les personnes dans la spiritualité New Age, la remarque est valide.
-Nous avons fait l'évaluation des bénéfices et des risques de garder le terme Tantra, et, de notre point de vue, pour intéresser notre public cible, il nous a semblé pertinent de garder ce terme.
+
+Comme la majorité des pratiques du Tantra entre Sceptiques s'inspire du Néo-Tantra, il nous a semblé logique d'avoir le mot **Tantra** dans le nom du collectif.
 
 ## Vous surfez sur la popularité du terme "Tantra" pour promouvoir votre initiative
 
@@ -85,11 +86,10 @@ Nous sommes toutes & tous bénévoles, c'est notre décision commune d'investir 
 
 ## Quels sont les profils des personnes contre l'initiative du Tantra entre Sceptiques ?
 
-1. Les personnes qui ont subies des [violences sexuelles & sexistes](https://questionsexualite.fr/lutter-contre-les-violences-et-discriminations/les-violences-sexistes-et-sexuelles/violences-sexistes-ou-sexuelles-de-quoi-on-parle), en particulier dans le milieu du Néo-Tantra et qui ont de nombreuses craintes légitimes que cette initiative soit le théâtre de nouvelles dérives au sein du Scepticisme. Nous comprenons leurs craintes, et nous faisons un maximum pour éviter les dérives avec la mise en place de notre [code de conduite](../ethical/ethical-code-of-conduct.md) ainsi que les différentes intervenant·e·s externes qui travaillent sur le projet et dont une partie sont dans [nos remerciements](thanks.md).
-De notre point de vue, c'est en documentant et en informant le grand public de ce qu'est réellement les pratiques tantriques avec des termes compréhensibles plutôt qu'avec un champ lexical New Age, qu'il sera possible que le grand public se rende compte de ce qu'est réellement le Néo-Tantra.
+1. Les personnes qui ont subies des [violences sexuelles & sexistes](https://questionsexualite.fr/lutter-contre-les-violences-et-discriminations/les-violences-sexistes-et-sexuelles/violences-sexistes-ou-sexuelles-de-quoi-on-parle), en particulier dans le milieu du Néo-Tantra et qui ont de nombreuses craintes légitimes que cette initiative soit le théâtre de nouvelles dérives au sein du Scepticisme.
+Nous comprenons leurs craintes, et nous faisons un maximum pour éviter les dérives avec la mise en place de notre [code de conduite](../ethical/ethical-code-of-conduct.md) ainsi qu'avec la relecture des différent·e·s intervenant·e·s externes qui travaillent sur le projet et dont une partie sont dans [nos remerciements](thanks.md).
+De notre point de vue, c'est en documentant et en informant le grand public de ce qu'est réellement les pratiques tantriques avec des termes compréhensibles, qu'il sera possible que le grand public se rende compte de ce qu'est réellement le Néo-Tantra.
 1. Les personnes dans la spiritualité New Age qui considèrent qu'il est impossible de faire du Tantra laïc.
-
-D'ailleurs, nous voulons remercier sincèrement toutes et tous nos détracteurs, parce que, même si, certaines remarques sont exprimées de manière très violentes et irrespectueuses de notre code de conduite, notre principal but c'est de trouver des personnes qui vont sincèrement critiquer notre initiative, et grâce à l'exposition que nous avons reçu de ces personnes, cela a permis d'augmenter notre audience et de nous faire réfléchir sur notre initiative, ce qui est notre but principal avec le nom de notre initiative.
 
 ## J'ai rencontré quelqu'un qui prétend organiser des ateliers de type "Tantra entre Sceptiques" ou quelqu'un me propose de me former, comment puis-je lui faire confiance ?
 
