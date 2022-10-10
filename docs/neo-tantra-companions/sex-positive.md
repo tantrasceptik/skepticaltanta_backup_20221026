@@ -15,7 +15,7 @@ sidebar_position: 9
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Sex-positive_movement)
 
-The values behind Sex-Positive are very close to those of Tantric Skeptics, especially through their [code of conduct](https://sex-positive.com/codeofconduct/)
+The values behind Sex-Positive are very close to those of Skeptical Tantra, especially through their [code of conduct](https://sex-positive.com/codeofconduct/)
 
 Some of the Skeptical Tantrikas are also part of the Sex-Positive movement.
 
