@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## Pourquoi avoir appelé le "Tantra entre Sceptiques" ainsi ? Ne serait-il pas préférable de retirer le mot "Tantra" du nom ?
 
-1. L'approche derrière le **Tantra entre Sceptiques** est similaire à celles de [ZETETIC GAMERS](https://www.facebook.com/groups/ZETETICGAMERS), [Zet && TIC](https://www.facebook.com/groups/zet.tic) ou encore [Zet marteaux](https://www.facebook.com/groups/294521008405129), c'est à dire des Sceptiques/Zététiciens qui se regroupent autour d'une thématique ou d'un loisir.
+1. L'approche derrière le **Tantra entre Sceptiques** est similaire à celles de [ZETETIC GAMERS](https://www.facebook.com/groups/ZETETICGAMERS), [Zet && TIC](https://www.facebook.com/groups/zet.tic) ou encore [Zet marteaux](https://www.facebook.com/groups/294521008405129), c'est à dire des Sceptiques/Zététicien·ne·s qui se regroupent autour d'une thématique ou d'un loisir.
 Dans notre cas, c'est l'expérimentation autour du toucher, en s'inspirant par moments de pratiques venant du Néo-Tantra, tout en excluant toute forme de spiritualité ou explication New Age comme les chakras.
 1. La majorité des pratiques du Tantra entre Sceptiques s'inspire du Néo-Tantra.
 1. Le mot **Tantra** est déjà connu auprès du grand public, notamment grâce à la presse féminine, dont voici un échantillonnage:
@@ -43,7 +43,7 @@ Au delà des réponses que vous trouverez dans la question [Pourquoi avoir appel
 De plus, si nous prenons la définition sur Wikipédia de la [Zététique](https://fr.wikipedia.org/wiki/Z%C3%A9t%C3%A9tique):
 > La zététique est ainsi présentée comme « l'étude rationnelle des phénomènes présentés comme paranormaux, des pseudosciences et des thérapies étranges » ou comme « l'art de faire la différence entre ce qui relève de la science et ce qui relève de la croyance »
 
-Il nous semble, de notre point de vue, qu'au contraire, nous sommes en plein dans la thématique de la Zététique & du Scepticisme, c'est à dire l'étude rationnelle de pseudosciences qu''est le Néo-Tantra, et identifier ce qui pourrait être récupérable.
+Il nous semble, de notre point de vue, qu'au contraire, nous sommes en plein dans la thématique de la Zététique & du Scepticisme, c'est à dire l'étude rationnelle de pseudosciences qu'est le Néo-Tantra, et identifier ce qui pourrait être récupérable.
 
 ## Vous faites de l'appropriation culturelle en utilisant le terme "Tantra"
 
@@ -88,7 +88,7 @@ Nous sommes toutes & tous bénévoles, c'est notre décision commune d'investir 
 
 1. Les personnes qui ont subies des [violences sexuelles & sexistes](https://questionsexualite.fr/lutter-contre-les-violences-et-discriminations/les-violences-sexistes-et-sexuelles/violences-sexistes-ou-sexuelles-de-quoi-on-parle), en particulier dans le milieu du Néo-Tantra et qui ont de nombreuses craintes légitimes que cette initiative soit le théâtre de nouvelles dérives au sein du Scepticisme.
 Nous comprenons leurs craintes, et nous faisons un maximum pour éviter les dérives avec la mise en place de notre [code de conduite](../ethical/ethical-code-of-conduct.md) ainsi qu'avec la relecture des différent·e·s intervenant·e·s externes qui travaillent sur le projet et dont une partie sont dans [nos remerciements](thanks.md).
-De notre point de vue, c'est en documentant et en informant le grand public de ce qu'est réellement les pratiques tantriques avec des termes compréhensibles, qu'il sera possible que le grand public se rende compte de ce qu'est réellement le Néo-Tantra.
+De notre point de vue, c'est en documentant et en informant le grand public de ce que sont réellement les pratiques tantriques avec des termes compréhensibles, qu'il sera possible que le grand public se rende compte de ce qu'est réellement le Néo-Tantra.
 1. Les personnes dans la spiritualité New Age qui considèrent qu'il est impossible de faire du Tantra laïc.
 
 ## J'ai rencontré quelqu'un qui prétend organiser des ateliers de type "Tantra entre Sceptiques" ou quelqu'un me propose de me former, comment puis-je lui faire confiance ?
