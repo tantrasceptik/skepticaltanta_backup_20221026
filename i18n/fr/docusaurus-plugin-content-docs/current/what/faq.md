@@ -22,7 +22,7 @@ Dans notre cas, c'est l'expérimentation autour du toucher, en s'inspirant par m
 1. De motiver la communauté Sceptique de relire nos contenus et de s'intéresser à notre initiative: Sans le mot "sceptique" dans notre initiative, nous ne pensons pas qu'autant de sceptiques nous auraient aidé et guidé dans notre démarche.
 1. Le dernier et non des moindres, c'est qu'une partie de la communauté Sceptique est très prompte à juger une pratique à partir de son nom uniquement, or ceci n'est pas vraiment une attitude recommandée dans la pratique du scepticisme. C'est un bon exercice pratique pour la communauté Sceptique de creuser avant de juger.
 
-## J'ai trouvé une critique extrêmement violente et/ou injuste à propos du Tantra entre Sceptiques, je vais vous défendre !
+## J'ai trouvé une critique extrêmement violente et/ou injuste à propos du Tantra entre Sceptiques, je vais vous défendre
 
 Oui, en effet, comme pour toute initiative, il existe des critiques sur Internet, et nous n'aurions pas mis le mot **sceptique** si cela nous pose un problème de recevoir de critiques, au contraire: Nous avons mis le mot **sceptique** afin d'attirer l'attention de la communauté Sceptique sur nos contenus.
 
@@ -55,7 +55,7 @@ Comme la majorité des pratiques du Tantra entre Sceptiques s'inspire du Néo-Ta
 
 Oui, en effet, et nous ne cachons pas nos intentions, c'est indiqué très clairement dans la réponse de la question [Pourquoi avoir appelé le "Tantra entre Sceptiques" ainsi ?](#pourquoi-avoir-appelé-le-tantra-entre-sceptiques-ainsi--ne-serait-il-pas-préférable-de-retirer-le-mot-tantra-du-nom-) ci-dessus: Nous voulons faire de **l'entrisme Sceptique** dans le milieu du Tantra New Age.
 
-## En fait, vous organisez des partouzes / de la prostitution / un harem / ...
+## En fait, vous organisez des partouzes / de la prostitution / un harem
 
 Non, nous n'organisons pas de partouzes / prostitution / harem / ..., ce n'est clairement pas notre but, d'autant plus qu'il existe des lieux spécialisés pour ce genre de pratiques, comme les clubs échangistes.
 

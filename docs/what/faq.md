@@ -22,7 +22,7 @@ In our case, it is the experimentation around the touch, while being inspired by
 1. To motivate the Skeptic community to review our contents and to take an interest in our initiative: Without the word "Skeptic" in our initiative, we do not think that so many skeptics would have helped and guided us in our approach.
 1. Last but not least, some of the skeptical community is very quick to judge a practice by its name alone, and this is not really a recommended attitude in the practice of skepticism. It is a good practical exercise for the Skeptical community to dig before judging.
 
-## I found an extremely violent and/or unfair criticism about Tantra among Sceptics, I will defend you!
+## I found an extremely violent and/or unfair criticism about Tantra among Sceptics, I will defend you
 
 Yes, indeed, as with any initiative, there are critics on the Internet, and we would not have put the word **skeptic** if we had a problem with receiving criticism, on the contrary: We put the word **skeptic** in order to draw the attention of the Skeptic community to our contents.
 
@@ -38,7 +38,7 @@ On the other hand, the Skeptical Tantra initiative supports all of our volunteer
 
 ## Your initiative has nothing to do with skepticism
 
-Beyond the answers you'll find in the question [Why did you call the "Tantra among Skeptics" that?](#why-did-you-call-the-tantra-between-skeptics-like-that-wouldnt-it-be-better-to-remove-the-word-tantra-from-the-name), we find, on the contrary, that our approach is in line with skepticism, because, in the first place, as in any community on the Internet, it is quite possible that a sub-community emerges around a common theme or hobby: To our knowledge, no one is shocked that an initiative like [ZETETIC GAMERS](https://www. facebook.com/groups/ZETETICGAMERS) exists.
+Beyond the answers you'll find in the question [Why did you call the "Tantra among Skeptics" that?](#why-did-you-call-the-skeptical-tantra-or-tantra-between-skeptics-like-that-wouldnt-it-be-better-to-remove-the-word-tantra-from-the-name), we find, on the contrary, that our approach is in line with skepticism, because, in the first place, as in any community on the Internet, it is quite possible that a sub-community emerges around a common theme or hobby: To our knowledge, no one is shocked that an initiative like [ZETETIC GAMERS](https://www.facebook.com/groups/ZETETICGAMERS) exists.
 
 Moreover, if we take the Wikipedia definition of [Zetetics](https://en.wikipedia.org/wiki/Z%C3%A9t%C3%A9tique):
 > Zetetics is thus presented as "the rational study of phenomena presented as paranormal, pseudosciences and strange therapies" or as "the art of distinguishing between what is science and what is belief"
@@ -53,9 +53,9 @@ As the majority of Tantra practices among Skeptics are inspired by Neo-Tantra, i
 
 ## You are surfing on the popularity of the term "Tantra" to promote your initiative
 
-Yes, indeed, and we don't hide our intentions, it's made very clear in the answer to the question [Why did you call the "Tantra among Skeptics" that way?](#why-did-you-call-the-tantra-between-skeptics-like-that-wouldnt-it-be-better-to-remove-the-word-tantra-from-the-name) above: We want to do **Skeptical entryism** in the New Age Tantra milieu.
+Yes, indeed, and we don't hide our intentions, it's made very clear in the answer to the question [Why did you call the "Tantra among Skeptics" that way?](#why-did-you-call-the-skeptical-tantra-or-tantra-between-skeptics-like-that-wouldnt-it-be-better-to-remove-the-word-tantra-from-the-name) above: We want to do **Skeptical entryism** in the New Age Tantra milieu.
 
-## In fact, you organise orgies / prostitution / a harem / ...
+## In fact, you organise orgies / prostitution / a harem
 
 No, we don't organise orgies / prostitution / harem / ..., this is clearly not our goal, especially since there are specialised places for this kind of practices, like swingers clubs.
 
