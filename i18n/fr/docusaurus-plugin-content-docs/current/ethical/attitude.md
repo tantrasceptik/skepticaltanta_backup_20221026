@@ -5,14 +5,14 @@ sidebar_position: 2
 
 Le Néo-Tantra ou Tantra spirituel vient avec son lot de croyances, principalement venant du New Age.
 
-Les deux principales difficultés pour un scientifique, un sceptique ou un zététicien qui s'aventurerait dans un événement Néo-Tantra sont:
+Les deux principales difficultés pour une personne Athée qui s'aventurerait dans un événement Néo-Tantra sont:
 
 1. Comprendre le champ lexical utilisé: Pour cela, [cette table de rosette New Age <=> Tantra entre Sceptiques](what/translator.md) devrait vous aider
 1. Respecter les différentes croyances qui circulent dans les événements Néo-Tantra
 
 Il est important de distinguer ce qui est dit par les animatrices et animateurs qui, habituellement, vont utiliser le champ lexical repris par le New Age (chakras, énergie, yoni, lingam...) principalement pour expliquer un exercice ou un massage, donc il suffit d'avoir [votre table de rosette](what/translator.md) en tête pour comprendre ce qui est dit, et les discussions informelles entre participant·e·s pendant les pauses et les repas, dont le contenu peut être bien plus compliqué à gérer pour un·e sceptique.
 
-**Le but n'est clairement pas de changer les croyances des participant·e·s, et il est beaucoup plus facile d'éviter de rentrer dans les détails de comment nous appréhendons le monde via la méthodologie scientifique et la zététique.**
+**Le but n'est clairement pas de changer les croyances des participant·e·s, et il est beaucoup plus facile d'éviter de rentrer dans les détails de comment nous appréhendons le monde.**
 
 Donc, quand nous allons dans un stage Tantra, nous y allons d'abord pour **soi**.
 

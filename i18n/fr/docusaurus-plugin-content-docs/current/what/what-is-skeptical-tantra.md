@@ -18,7 +18,11 @@ Mise en oeuvre de pratiques cadrées qui visent à sécuriser l'expérimentation
 
 ## Histoire
 
-Le Tantra entre Sceptiques est né suite à la rencontre d'une dizaine de Tantrikas Sceptiques qui explor(ai)ent le Néo-Tantra depuis des années en sous-marin, et qui estiment que les croyances New Age sont un frein pour développer le potentiel de ce qui a été découvert par les Néo-Tantrikas via les pratiques Tantriques.
+Le Tantra entre Sceptiques est né suite à la rencontre d'une dizaine de Tantrikas Sceptiques qui explor(ai)ent le Néo-Tantra depuis des années en sous-marin, et qui estiment qu'il est possible de pratiquer des exercices de tantra sans faire des appels à la spiritualité ni aux chakras.
+
+De plus, certains exercices dans le Néo-Tantra nous pose question sur ce qui se passe dans le corps et dans le cerveau, notamment les exercices qui permettent de rentrer dans des états modifiés de conscience.
+
+Dès lors, il nous semblerait pertinent, qu'à terme, des études scientifiques soient menées dans une démarche similaire à celle qui s'est passé pour la transe chamanique, qui a été longuement étudiée à l'université de Liège, pour donner naissance à [un protocole de transe sans démarche spirituelle](https://www.rtbf.be/article/la-transe-comme-outil-therapeutique-est-etudiee-a-liege-mais-c-est-quoi-exactement-10752288).
 
 De plus, la crise sanitaire du COVID-19 a été l'élément déclencheur pour promouvoir le Scepticisme ainsi que la Zététique au sein de la communauté Néo-Tantrique.
 
@@ -60,7 +64,7 @@ Parce que la plupart des exercices dans le Tantra entre Sceptiques sont grandeme
 
 ## Pourquoi “Sceptique” ?
 
-Pour expliquer d’un point de vue le plus scientifique possible les pratiques, en se fondant notamment sur [le scepticisme scientifique](https://fr.wikipedia.org/wiki/Scepticisme_scientifique)
+Pour documenter les pratiques d’un point de vue le plus basé sur les dernières connaissances scientifiques du corps humain, en se fondant notamment sur [le scepticisme scientifique](https://fr.wikipedia.org/wiki/Scepticisme_scientifique).
 
 C’est un courant de pensée, nommé scepticisme ou encore zététique, qui étudie les phénomènes paranormaux en utilisant la méthode scientifique et également un mouvement militant de la promotion de la pensée critique ainsi que de la pédagogie scientifique, une vidéo de présentation:
 <iframe src="https://www.youtube.com/embed/g7m5-auOUDM" frameborder="0" allowfullscreen width="100%" height="480" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
