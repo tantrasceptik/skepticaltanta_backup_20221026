@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Tantra between Skeptics - Touch experiments',
   tagline: 'Explore your touch with the help of Science and Skepticism',
-  url: 'https://skeptical-tantra.org',
+  url: 'https://tantrasceptik.github.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
   organizationName: 'Skeptical-Tantra', // Usually your GitHub org/user name.
-  projectName: 'skeptical-tantra', // Usually your repo name.
+  projectName: 'skepticaltanta_backup_20221026', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
   themeConfig: {
@@ -155,7 +155,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Skeptical-Tantra/skeptical-tantra/tree/main',
+            'https://github.com/tantrasceptik/skepticaltanta_backup_20221026/tree/main',
           editLocalizedFiles: true,
         },
         gtag: {
@@ -166,7 +166,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Skeptical-Tantra/skeptical-tantra/tree/main/blog',
+            'https://github.com/tantrasceptik/skepticaltanta_backup_20221026/tree/main/blog',
           editLocalizedFiles: true,
         },
         theme: {
