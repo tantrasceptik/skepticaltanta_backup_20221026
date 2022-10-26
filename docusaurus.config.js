@@ -3,7 +3,7 @@ module.exports = {
   title: 'Tantra between Skeptics - Touch experiments',
   tagline: 'Explore your touch with the help of Science and Skepticism',
   url: 'https://tantrasceptik.github.com/',
-  baseUrl: '/skepticaltanta_backup_20221026/,
+  baseUrl: '/skepticaltanta_backup_20221026/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
